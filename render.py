@@ -37,15 +37,15 @@ def getData(row,i):
 		'Pollinators': row.Pollinators.values[0],
 		'Self_fertile': row.Self_fertile.values[0],
 		'Known_hazards':row.Known_hazards.values[0],
-		'Cultivation_Details':row.Cultivation_Details.values[0],
+		'Cultivation_details':row.Cultivation_details.values[0],
 		'Edible_uses':row.Edible_uses.values[0],
 		'Uses_notes':row.Uses_notes.values[0],
 		'Heavy_clay':row.Heavy_clay.values[0],
 		'Propagation':row.Propagation.values[0],
-		'Edibility_Rating':row.Edibility_Rating.values[0],
+		'Edibility_rating':row.Edibility_rating.values[0],
 		'Frost_Tender':row.Frost_Tender.values[0],
 		'Scented':row.Scented.values[0],
-		'Medicinal_Rating':row.Medicinal_Rating.values[0]
+		'Medicinal_rating':row.Medicinal_rating.values[0]
 	}
 
 
