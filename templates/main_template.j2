@@ -1,0 +1,32 @@
+{%- macro plot(Synonyms,Latin_name,Family,Common_name,Range)-%}
+{{Synonyms}} యొక్క శాస్త్రీయ నామము {{Latin_ame}}. 
+ఇది {{Family}} కుటుంబానికి చెందినది. 
+{%- if narrative_location != "NaN" -%}
+దీని సాధారణ నామము {{Common_name}}. 
+{%- else -%}
+దీనికి సాధారణ నామమ లేదు.
+{%- endif -%}
+{%- if Range != "NaN" -%}
+ఇది {{Range}} ప్రాంతాల్లో అక్కువగా పెరుగును.
+{%- endif -%}
+{%-endmacro-%}
+{%- macro plot(Latin_name,Habit,Deciduous/Evergreen,Growth_rate,Height,Width)-%}
+{{ '\n==వివరణ(Description)==\n' }}
+{%- if Habit != "NaN" -%}
+{{Latin Name}} {{Habit}} లాగ పెరిగే మొక్క.
+{%- endif -%}
+{%- if Deciduous/Evergreen != "NaN" -%}
+ ఇవి {{Deciduous/Evergreen}} మొక్కలు.
+{%- endif -%}
+{%- if Growth rate != "NaN" -%}
+ ఇది {{Growth rate}} పెరిగే మొక్క.
+{%- endif -%}
+ ఇది దాదాపుగా
+{%- if Growth rate != "NaN" -%}
+ {{Height}} మెటర్లు పొడువు
+{%- endif -%}
+{%- if Growth rate != "NaN" -%}
+ మరియు {{Width}} మెటర్లు వెడల్పు 
+{%- endif -%}
+ వరకు పెరుగును.
+{%-endmacro-%}
