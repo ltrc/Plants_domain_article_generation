@@ -37,6 +37,7 @@ def getData(row,i):
 		'Pollinators': row.Pollinators.values[0],
 		'Self_fertile': row.Self_fertile.values[0],
 		'Known_hazards':row.Known_hazards.values[0],
+		'Synonyms':row.Synonyms.values[0],
 		'Cultivation_details':row.Cultivation_details.values[0],
 		'Edible_uses':row.Edible_uses.values[0],
 		'Uses_notes':row.Uses_notes.values[0],
@@ -65,7 +66,7 @@ def main():
 	ids = plantsDF.Index.tolist()
 
 	# Initiate the file object
-	fobj = open('movies.xml', 'w')
+	fobj = open('plants.xml', 'w')
 	fobj.write(tewiki+'\n')
 
 	# Give the page_id from which you want to generate the articles in
