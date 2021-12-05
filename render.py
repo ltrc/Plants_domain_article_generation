@@ -53,7 +53,7 @@ def getData(row,i):
 
 def main():
 	# Load the template
-	file_loader = FileSystemLoader('./Templates')
+	file_loader = FileSystemLoader('./templates')
 	env = Environment(loader=file_loader)
 	template = env.get_template('main_template.j2')
 
