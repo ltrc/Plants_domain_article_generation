@@ -81,7 +81,7 @@
 ఇప్పట్టి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు.
 {%- endif -%}
 {%-endmacro-%}
-{%- macro Cultivation_details(Cultivation_details)-%}
+{%- macro cultivation_details(Cultivation_details)-%}
 {{ '\n==పెరుగుదలకు అనుకూల అంశాలు(Cultivation Details)==\n' }}
 {%- if Cultivation_details != "NaN" -%}
 {{Cultivation_details}}
@@ -89,7 +89,7 @@
 ఇప్పట్టి వరకు ఈ మొక్క బాగపెరగడానికి కావాల్సిన అంశాలు తెలియవు. 
 {%- endif -%}
 {%-endmacro-%}
-{%- macro Edible_uses(Edible_uses)-%}
+{%- macro edible_uses(Edible_uses)-%}
 {{ '\n==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==\n' }}
 {%- if Edible_uses != "NaN" -%}
 {{Edible_uses}}
@@ -97,7 +97,7 @@
 ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు.  
 {%- endif -%}
 {%-endmacro-%}
-{%- macro Uses_notes(Uses_notes)-%}
+{%- macro uses_notes(Uses_notes)-%}
 {{ '\n==ఉపయోగాలు(Uses_notes)==\n' }}
 {%- if Uses_notes != "NaN" -%}
 {{Uses_notes}}
@@ -105,32 +105,32 @@
 ఈ మొక్కల ఉపయోగాలు తెలియవు.  
 {%- endif -%}
 {%-endmacro-%}
-{%- macro Propagation(Propagation)-%}
+{%- macro propagation(Propagation)-%}
 {{ '\n==ప్రచారణ(Propagation)==\n' }}
 {%- if Propagation != "NaN" -%}
 {{Propagation}}
 {%- endif -%}
 {%-endmacro-%}
-{%- macro Edibility_rating(Edibility_rating)-%}
+{%- macro edibility_rating(Edibility_rating)-%}
 {{ '\n==ఆహారయోగ్య సూచి(Edibility Rating)[0-5]==\n' }}
 {%- if Edibility_rating != "NaN" -%}
 ఈ మొక్క యొక్క ఆహారయోగ్య సూచి {{Edibility_rating}}/5.
 {%- endif -%}
 {%-endmacro-%}
-{%- macro Medicinal_rating(Medicinal_rating)-%}
+{%- macro medicinal_rating(Medicinal_rating)-%}
 {{ '\n==ఆయుశ్యయొగ సూచి((Medicinal Rating)[0-5]==\n' }}
 {%- if Medicinal_rating != "NaN" -%}
 ఈ మొక్క యొక్క ఆయుశ్యయొగ సూచి {{Medicinal_rating}}/5.
 {%- endif -%}
 {%-endmacro-%}
-{%- macro Scented(Scented)-%}
+{%- macro scented(Scented)-%}
 {{ '\n==సువాసన(Scented)==\n' }}
 {%- if Scented != "సుగందమైన" -%}
 ఇది {{Scented}} మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు.
 {%- else -%}
 ఇది సువాసనమైన మొక్క కాదు.
 {%- endif -%}
-{%- macro Frost_Tender(Frost_Tender)-%}
+{%- macro frost_Tender(Frost_Tender)-%}
 {{ '\n==Frost_Tender==\n' }}
 {%- if Frost_Tender != "NaN" -%}
  {%- if Frost_Tender == "వై" -%}
