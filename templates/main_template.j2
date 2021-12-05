@@ -1,13 +1,17 @@
 {%- macro plot(Synonyms,Latin_name,Famil,Common_name,Range)-%}
-{{Synonyms}} యొక్క శాస్త్రీయ నామము {{Latin_ame}}. 
-ఇది {{Famil}} కుటుంబానికి చెందినది. 
-{%- if narrative_location != "NaN" -%}
-దీని సాధారణ నామము {{Common_name}}. 
+{%- if Synonyms != "NaN" -%}
+{{Synonyms}} యొక్క శాస్త్రీయ నామము {{Latin_name}}. 
 {%- else -%}
-దీనికి సాధారణ నామమ లేదు.
+దీని శాస్త్రీయ నామము {{Latin_name}}.
+{%- endif -%}
+ ఇది {{Famil}} కుటుంబానికి చెందినది. 
+{%- if Common_name != "NaN" -%}
+ దీని సాధారణ నామము {{Common_name}}. 
+{%- else -%}
+ దీనికి సాధారణ నామమ లేదు.
 {%- endif -%}
 {%- if Range != "NaN" -%}
-ఇది {{Range}} ప్రాంతాల్లో అక్కువగా పెరుగును.
+ ఇది {{Range}} ప్రాంతాల్లో ఎక్కువగా పెరుగును.
 {%- endif -%}
 {%-endmacro-%}
 {%- macro plot(Latin_name,Habit,Deciduous/Evergreen,Growth_rate,Height,Width)-%}
@@ -71,7 +75,7 @@
 {%-endmacro-%}
 {%- macro known_hazards(Known_hazards)-%}
 {{ '\n==ప్రమాద/ విషస్వభావాలు(Known hazards)==\n' }}
-{%- if Known_hazards != "ఏదీ తెలియదు" -%}
+{%- if Known_hazards != "NaN" -%}
 {{Known_hazards}}
 {%- else -%}
 ఇప్పట్టి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు.
@@ -79,7 +83,7 @@
 {%-endmacro-%}
 {%- macro Cultivation_details(Cultivation_details)-%}
 {{ '\n==పెరుగుదలకు అనుకూల అంశాలు(Cultivation Details)==\n' }}
-{%- if Cultivation_details != "ఏదీ తెలియదు" -%}
+{%- if Cultivation_details != "NaN" -%}
 {{Cultivation_details}}
 {%- else -%}
 ఇప్పట్టి వరకు ఈ మొక్క బాగపెరగడానికి కావాల్సిన అంశాలు తెలియవు. 
@@ -87,7 +91,7 @@
 {%-endmacro-%}
 {%- macro Edible_uses(Edible_uses)-%}
 {{ '\n==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==\n' }}
-{%- if Edible_uses != "ఏదీ తెలియదు" -%}
+{%- if Edible_uses != "NaN" -%}
 {{Edible_uses}}
 {%- else -%}
 ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు.  
@@ -95,7 +99,7 @@
 {%-endmacro-%}
 {%- macro Uses_notes(Uses_notes)-%}
 {{ '\n==ఉపయోగాలు(Uses_notes)==\n' }}
-{%- if Uses_notes != "ఏదీ తెలియదు" -%}
+{%- if Uses_notes != "NaN" -%}
 {{Uses_notes}}
 {%- else -%}
 ఈ మొక్కల ఉపయోగాలు తెలియవు.  
@@ -103,20 +107,20 @@
 {%-endmacro-%}
 {%- macro Propagation(Propagation)-%}
 {{ '\n==ప్రచారణ(Propagation)==\n' }}
-{%- if Propagation != "ఏదీ తెలియదు" -%}
+{%- if Propagation != "NaN" -%}
 {{Propagation}}
 {%- endif -%}
 {%-endmacro-%}
 {%- macro Edibility_rating(Edibility_rating)-%}
-{{ '\n==తినదగిన రేటింగ్(Edibility Rating)[0-5]==\n' }}
-{%- if Edibility_rating != "ఏదీ తెలియదు" -%}
-ఈ మొక్క తినదగిన రేటింగ్ {{Edibility_rating}}/5.
+{{ '\n==ఆహారయోగ్య సూచి(Edibility Rating)[0-5]==\n' }}
+{%- if Edibility_rating != "NaN" -%}
+ఈ మొక్క యొక్క ఆహారయోగ్య సూచి {{Edibility_rating}}/5.
 {%- endif -%}
 {%-endmacro-%}
 {%- macro Medicinal_rating(Medicinal_rating)-%}
-{{ '\n==తినదగిన రేటింగ్(Edibility Rating)[0-5]==\n' }}
-{%- if Medicinal_rating != "ఏదీ తెలియదు" -%}
-ఈ మొక్క తినదగిన రేటింగ్ {{Medicinal_rating}}/5.
+{{ '\n==ఆయుశ్యయొగ సూచి((Medicinal Rating)[0-5]==\n' }}
+{%- if Medicinal_rating != "NaN" -%}
+ఈ మొక్క యొక్క ఆయుశ్యయొగ సూచి {{Medicinal_rating}}/5.
 {%- endif -%}
 {%-endmacro-%}
 {%- macro Scented(Scented)-%}
