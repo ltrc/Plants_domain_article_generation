@@ -14,7 +14,7 @@
  ఇది {{Range}} ప్రాంతాల్లో ఎక్కువగా పెరుగును.
 {%- endif -%}
 {%-endmacro-%}
-{%- macro plot1(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
+{%- macro description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
 {{ '\n==వివరణ(Description)==\n' }}
 {%- if Habit != "NaN" -%}
 {{Latin_Name}} {{Habit}} లాగ పెరిగే మొక్క.
@@ -144,9 +144,10 @@
 {%- endif -%}
 {%-endmacro-%}
 
-{{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
+
 {{- plo(Synonyms,Latin_name,Famil,Common_name,Range)-}}
-{{- plot1(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
+{{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
+{{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
 {{- pollinators(Pollinators)-}}
 {{- known_hazards(Known_hazards)-}}
 {{- cultivation_details(Cultivation_details)-}}
