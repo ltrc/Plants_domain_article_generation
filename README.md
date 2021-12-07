@@ -1,6 +1,6 @@
 # honors-project-CLD
->                                                                                                                Padakanti Srijith
->                                                                                                                2019114002
+                                                                                                            Padakanti Srijith
+                                                                                                            2019114002
 Machine translated Telugu wikipedia for plants
 ## Aim: 
 The aim of this Honors project is to increase the number of Telugu wikipedia pages in any domain. The domain I chose is plants domain.
@@ -21,7 +21,7 @@ My motivation to increase the number of telugu wikipedia pages is to increase th
 2) Use machine translation to translate the database into telugu database.
 3) Correct the telugu database after machine translation.
 4) The .csv file for plants dataset. [here](https://docs.google.com/spreadsheets/d/1DUPudD23SuMjWWg8wX-OJzOoxEp-zePhNu3TuvISing/edit#gid=1216063786)
-5) Use the junja2 template to write a template for the wikipedia page.
+5) Use the jinja2 template to write a template for the wikipedia page.
 6) Use macro for writing the template.
 7) use python to create a .xml file for uploading to the sandbox.
 
