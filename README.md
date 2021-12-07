@@ -17,9 +17,10 @@ My motivation to increase the number of telugu wikipedia pages is to increase th
 ## Methodology:
 1) First collect the data to make a dataset.
 2) Use machine translation to translate the database into telugu database.
-3) Correct the telugu databse after machine translation.
-4) Use the junja2 to write a template for the wikipedia page.
-5) use python to create a .xml file for uploading to the sandbox.
+3) Correct the telugu database after machine translation.
+4) The .csv file for plants dataset. [here](https://docs.google.com/spreadsheets/d/1DUPudD23SuMjWWg8wX-OJzOoxEp-zePhNu3TuvISing/edit#gid=1216063786)
+5) Use the junja2 to write a template for the wikipedia page.
+6) use python to create a .xml file for uploading to the sandbox.
 
 ## Conclusion:
 Created 7416 wikipedia pages based on different plants.
