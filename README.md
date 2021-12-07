@@ -1,6 +1,6 @@
 # honors-project-CLD
-##                                                                                                               Padakanti Srijith
-##                                                                                                               2019114002
+#                                                                                                               Padakanti Srijith
+#                                                                                                               2019114002
 Machine translated Telugu wikipedia for plants
 ## Aim: 
 The aim of this Honors project is to increase the number of Telugu wikipedia pages in any domain. The domain I chose is plants domain.
