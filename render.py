@@ -13,7 +13,7 @@ def getData(row,i):
 		'Family':row.Family.values[0],
 		'Common_name':row.Common_name.values[0],
 		'Habit':(row.Habit.values[0]),
-		'Deciduous/Evergreen':row.Deciduous_Evergreen.values[0],
+		#'Deciduous/Evergreen':row.Deciduous_Evergreen.values[0],
 		'Height':row.Height.values[0],
 		'Width':row.Width.values[0],
 		'UK_Hardiness':row.UK_Hardiness.values[0],
