@@ -1,35 +1,35 @@
 {%- macro plo(Synonyms,Latin_name,Famil,Common_name,Range)-%}
-{%- if Synonyms != "NaN" -%}
+{%- if Synonyms != "NONE" -%}
 {{Synonyms}} యొక్క శాస్త్రీయ నామము {{Latin_name}}. 
 {%- else -%}
 దీని శాస్త్రీయ నామము {{Latin_name}}.
 {%- endif -%}
  ఇది {{Famil}} కుటుంబానికి చెందినది. 
-{%- if Common_name != "NaN" -%}
+{%- if Common_name != "NONE" -%}
  దీని సాధారణ నామము {{Common_name}}. 
 {%- else -%}
  దీనికి సాధారణ నామమ లేదు.
 {%- endif -%}
-{%- if Range != "NaN" -%}
+{%- if Range != "NONE" -%}
  ఇది {{Range}} ప్రాంతాల్లో ఎక్కువగా పెరుగును.
 {%- endif -%}
 {%-endmacro-%}
 {%- macro description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
 {{ '\n==వివరణ(Description)==\n' }}
-{%- if Habit != "NaN" -%}
+{%- if Habit != "NONE" -%}
 {{Latin_Name}} {{Habit}} లాగ పెరిగే మొక్క.
 {%- endif -%}
-{# {%- if Deciduous_Evergreen != "NaN" -%}
+{# {%- if Deciduous_Evergreen != "NONE" -%}
  ఇవి {{Deciduous_Evergreen}} మొక్కలు.
 {%- endif -%} #}
-{%- if Growth_rate != "NaN" -%}
+{%- if Growth_rate != "NONE" -%}
  ఇది {{Growth_rate}} పెరిగే మొక్క.
 {%- endif -%}
  ఇది దాదాపుగా
-{%- if Height != "NaN" -%}
+{%- if Height != "NONE" -%}
  {{Height}} మెటర్లు పొడువు
 {%- endif -%}
-{%- if Width != "NaN" -%}
+{%- if Width != "NONE" -%}
  మరియు {{Width}} మెటర్లు వెడల్పు 
 {%- endif -%}
  వరకు పెరుగును.
@@ -37,37 +37,37 @@
 {%- macro taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay)-%}
 {{ '\n==వర్గీకరణ(Taxonomy)==\n' }}
 {{Latin_name}}
-{%- if Soil != "NaN" -%}
+{%- if Soil != "NONE" -%}
  {{Soil}}
 {%- endif -%}
-{%- if Growth_rate != "NaN" -%}
+{%- if Growth_rate != "NONE" -%}
  {{Growth_rate}}గా పెరిగే మొక్క.
 {%- endif -%}
-{%- if Moisture != "NaN" -%}
+{%- if Moisture != "NONE" -%}
  వీటి పెరుగుదలకు {{Moisture}} ఉన్న భూములు అనుకూలం.
 {%- endif -%}
-{%- if Shade != "NaN" -%}
+{%- if Shade != "NONE" -%}
 ఇవి {{Shade}} ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి.
 {%- endif -%}
-{%- if Nitrogen_fixer != "NaN" -%}
+{%- if Nitrogen_fixer != "NONE" -%}
  ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి {{Nitrogen_fixer}}.
 {%- endif -%}
-{%- if Poor_soil != "NaN" -%}
+{%- if Poor_soil != "NONE" -%}
  ఇవి నిస్సారవంతమైన భూమిలో {{Poor_soil}}.
 {%- endif -%}
-{%- if Drought != "NaN" -%}
+{%- if Drought != "NONE" -%}
  ఈ మొక్కలు నీటి ఎద్దడిని కూడా తట్టుకొని పెరగ{{Drought}}.
 {%- endif -%}
-{%- if Self_fertile != "NaN" -%}
+{%- if Self_fertile != "NONE" -%}
  ఇవి స్వసంపర్యము జరుపు{{Self_fertile}} మొక్కలు.
 {%- endif -%}
-{%- if Heavy_clay != "NaN" -%}
+{%- if Heavy_clay != "NONE" -%}
  ఈ మొక్కలు బురుద నెలల్లో {{Heavy_clay}}.
 {%- endif -%}
 {%-endmacro-%}
 {%- macro pollinators(Pollinators)-%}
 {{ '\n==పరాగ సంపర్కాలు(Pollinators)==\n' }}
-{%- if Pollinators != "NaN" -%}
+{%- if Pollinators != "NONE" -%}
 ఈ మొక్కల సంతతి వృద్ధిచందడానికి వీటియొక్క విత్తనాలు, పుప్పొడి {{Pollinators}} ద్వారా వ్యాప్తి చెందుతాయి.
 {%- else -%}
 ఈ మొక్కల సంతతిచెందే విధానము తెలియదు.
@@ -75,7 +75,7 @@
 {%-endmacro-%}
 {%- macro known_hazards(Known_hazards)-%}
 {{ '\n==ప్రమాద/ విషస్వభావాలు(Known hazards)==\n' }}
-{%- if Known_hazards != "NaN" -%}
+{%- if Known_hazards != "NONE" -%}
 {{Known_hazards}}
 {%- else -%}
 ఇప్పట్టి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు.
@@ -83,7 +83,7 @@
 {%-endmacro-%}
 {%- macro cultivation_details(Cultivation_details)-%}
 {{ '\n==పెరుగుదలకు అనుకూల అంశాలు(Cultivation Details)==\n' }}
-{%- if Cultivation_details != "NaN" -%}
+{%- if Cultivation_details != "NONE" -%}
 {{Cultivation_details}}
 {%- else -%}
 ఇప్పట్టి వరకు ఈ మొక్క బాగపెరగడానికి కావాల్సిన అంశాలు తెలియవు. 
@@ -91,7 +91,7 @@
 {%-endmacro-%}
 {%- macro edible_uses(Edible_uses)-%}
 {{ '\n==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==\n' }}
-{%- if Edible_uses != "NaN" -%}
+{%- if Edible_uses != "NONE" -%}
 {{Edible_uses}}
 {%- else -%}
 ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు.  
@@ -99,7 +99,7 @@
 {%-endmacro-%}
 {%- macro uses_notes(Uses_notes)-%}
 {{ '\n==ఉపయోగాలు(Uses_notes)==\n' }}
-{%- if Uses_notes != "NaN" -%}
+{%- if Uses_notes != "NONE" -%}
 {{Uses_notes}}
 {%- else -%}
 ఈ మొక్కల ఉపయోగాలు తెలియవు.  
@@ -107,19 +107,19 @@
 {%-endmacro-%}
 {%- macro propagation(Propagation)-%}
 {{ '\n==ప్రచారణ(Propagation)==\n' }}
-{%- if Propagation != "NaN" -%}
+{%- if Propagation != "NONE" -%}
 {{Propagation}}
 {%- endif -%}
 {%-endmacro-%}
 {%- macro edibility_rating(Edibility_rating)-%}
 {{ '\n==ఆహారయోగ్య సూచి(Edibility Rating)[0-5]==\n' }}
-{%- if Edibility_rating != "NaN" -%}
+{%- if Edibility_rating != "NONE" -%}
 ఈ మొక్క యొక్క ఆహారయోగ్య సూచి {{Edibility_rating}}/5.
 {%- endif -%}
 {%-endmacro-%}
 {%- macro medicinal_rating(Medicinal_rating)-%}
 {{ '\n==ఆయుశ్యయొగ సూచి((Medicinal Rating)[0-5]==\n' }}
-{%- if Medicinal_rating != "NaN" -%}
+{%- if Medicinal_rating != "NONE" -%}
 ఈ మొక్క యొక్క ఆయుశ్యయొగ సూచి {{Medicinal_rating}}/5.
 {%- endif -%}
 {%-endmacro-%}
@@ -133,7 +133,7 @@
 {%-endmacro-%}
 {%- macro frost_Tender(Frost_Tender)-%}
 {{ '\n==Frost_Tender==\n' }}
-{%- if Frost_Tender != "NaN" -%}
+{%- if Frost_Tender != "NONE" -%}
  {%- if Frost_Tender == "వై" -%}
  ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకాలేవు. 
  {%- else -%}
