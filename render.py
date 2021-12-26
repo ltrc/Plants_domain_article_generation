@@ -7,13 +7,13 @@ from genXML import tewiki, writePage
 
 def getData(row,i):
 	data = {
-		'Index': (row.Index.values[0]),
+		'Index': row.Index.values[0],
 		'Latin_name':row.Latin_name.values[0],
 		'Synonyms':row.Synonyms.values[0],
 		'Family':row.Family.values[0],
 		'Common_name':row.Common_name.values[0],
-		'Habit':(row.Habit.values[0]),
-		#'Deciduous/Evergreen':row.Deciduous_Evergreen.values[0],
+		'Habit':row.Habit.values[0],
+		'Deciduous/Evergreen':row.Deciduous_Evergreen.values[0],
 		'Height':row.Height.values[0],
 		'Width':row.Width.values[0],
 		'UK_Hardiness':row.UK_Hardiness.values[0],
@@ -21,7 +21,7 @@ def getData(row,i):
 		'Range':row.Range.values[0],
 		'Habitat':row.Habitat.values[0],
 		'Soil':row.Soil.values[0],
-		'Shade':(row.Shade.values[0]),
+		'Shade':row.Shade.values[0],
 		'Moisture':row.Moisture.values[0],
 		'Well_drained':row.Well_drained.values[0],
 		'Nitrogen_fixer':row.Nitrogen_fixer.values[0],
