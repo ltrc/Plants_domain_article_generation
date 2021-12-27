@@ -1,10 +1,10 @@
-{%- macro plo(Synonyms,Latin_name,Famil,Common_name,Range)-%}
+{%- macro plo(Synonyms,Latin_name,Family,Common_name,Range)-%}
 {%- if Synonyms != "NONE" -%}
 {{Synonyms}} యొక్క శాస్త్రీయ నామము {{Latin_name}}. 
 {%- else -%}
 దీని శాస్త్రీయ నామము {{Latin_name}}.
 {%- endif -%}
- ఇది {{Famil}} కుటుంబానికి చెందినది. 
+ ఇది {{Family}} కుటుంబానికి చెందినది. 
 {%- if Common_name != "NONE" -%}
  దీని సాధారణ నామము {{Common_name}}. 
 {%- else -%}
@@ -145,7 +145,7 @@
 {%-endmacro-%}
 
 
-{{- plo(Synonyms,Latin_name,Famil,Common_name,Range)-}}
+{{- plo(Synonyms,Latin_name,Family,Common_name,Range)-}}
 {{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
 {{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
 {{- pollinators(Pollinators)-}}
