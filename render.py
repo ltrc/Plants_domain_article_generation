@@ -64,7 +64,6 @@ def main():
 
 	#remove this to generate articles for all movies
 	ids = plantsDF.Index.tolist()
-	ids = ids[:1]
 	# print(ids)
 
 	# print(type(plantsDF.iloc[0]))
