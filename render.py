@@ -62,7 +62,7 @@ def main():
 	plantsDF =pickle.load(open('./123.pkl', 'rb'))
 
 
-	#remove this to generate articles for all movies
+	#remove this to generate articles for all plants
 	ids = plantsDF.Index.tolist()
 	# print(ids)
 
