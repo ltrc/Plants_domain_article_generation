@@ -1,6 +1,9 @@
 # honors-project-CLD
-                                                                                                            Padakanti Srijith
-                                                                                                            2019114002
+## Name: Padakanti Srijith
+## ID.no: 2019114002
+## Group: CLD
+## Project: Enhancing Telugu Wikipedia
+## Faculty: Radhika Mamidi
 Machine translated Telugu wikipedia for plants
 ## Aim: 
 The aim of this Honors project is to increase the number of Telugu wikipedia pages in any domain. The domain I chose is plants domain.
