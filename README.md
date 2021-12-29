@@ -11,8 +11,12 @@ Machine translated Telugu wikipedia for plants
 The aim of this Honors project is to increase the number of Telugu wikipedia pages in any domain. The domain I chose is plants domain.
 The total number of plant telugu wikipedia pages I created are 7416.
 
-### Motivation:
-My motivation to increase the number of telugu wikipedia pages is to increase the telugu database for future use.
+### Objectives:
+1) Scraping the data for plants to create a plant database.
+2) Machine translating the data into Telugu.
+3) Creating a Template for wikipedia article.
+4) Creating .xml for wikipedia articles.
+
 
 ### Related work:
 1) Data Scraping from plants related websites.
@@ -30,8 +34,11 @@ My motivation to increase the number of telugu wikipedia pages is to increase th
 6) Use macro for writing the template.
 7) use python to create a .xml file for uploading to the sandbox.
 
-### Conclusion:
-Created 7416 wikipedia pages based on different plants.
+### Experiments/Results/Discussion:
+1) Collected datafor plants database.
+2) Translated data into telugu.
+3) Created template for article generation.
+4) Created .xml file for 7416 wikipedia pages based on different plants.
 
 
 ### Future work:
