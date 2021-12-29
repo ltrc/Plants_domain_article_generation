@@ -4,8 +4,10 @@
 ## Group: CLD
 ## Project: Enhancing Telugu Wikipedia
 ## Faculty: Radhika Mamidi
+
+##Content Generation - Plants Domain
 Machine translated Telugu wikipedia for plants
-## Aim: 
+### Aim: 
 The aim of this Honors project is to increase the number of Telugu wikipedia pages in any domain. The domain I chose is plants domain.
 The total number of plant telugu wikipedia pages I created are 7416.
 
