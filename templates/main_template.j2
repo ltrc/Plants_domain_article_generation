@@ -1,3 +1,7 @@
+{%- macro infobox(Imagesthumb)-%}
+{{Imagesthumb}}
+{%-endmacro-%}
+
 {%- macro introduction(Synonyms,Latin_name,Family,Common_name,Range)-%}
 {%- if Synonyms != "NONE" -%}
  {{Synonyms}} యొక్క శాస్త్రీయ నామము {{Latin_name}}. 
@@ -161,7 +165,7 @@
 
 
 
-
+{{- macro infobox(Imagesthumb)-}}
 {{- introduction(Synonyms,Latin_name,Family,Common_name,Range)-}}
 {{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
 {{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
