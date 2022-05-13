@@ -23,7 +23,7 @@
 {%- macro description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
 {{ '\n==వివరణ(Description)==\n' }}
 {%- if Habit != "NONE" -%}
- {{Latin_name}} {{Habit}} లాగ పెరిగే మొక్క.
+ {{Latin_name}} {{Habit}} లా పెరిగే మొక్క.
 {%- endif -%}
 {%- if Deciduous_Evergreen != "NONE" -%}
  ఇది {{Deciduous_Evergreen}} మొక్క.
@@ -52,7 +52,7 @@
  {{Growth_rate}}గా పెరిగే మొక్క.
 {%- endif -%}
 {%- if Moisture != "NONE" -%}
- వీటి పెరుగుదలకు {{Moisture}}ఉన్న భూములు అనుకూలం.
+ ఈ మొక్క పెరుగుదలకు {{Moisture}}ఉన్న భూములు అనుకూలం.
 {%- endif -%}
 {%- if Shade != "NONE" -%}
  ఇవి {{Shade}}ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి.
@@ -62,9 +62,9 @@
 {%- endif -%}
 {%- if Poor_soil != "NONE" -%}
  {%- if Poor_soil == "FALSE" -%}
-  ఇవి నిస్సారవంతమైన భూమిలో పెరగవు.
+  ఇవి బీడు భూమిలో పెరగవు.
  {%- else -%}
-  ఇవి నిస్సారవంతమైన భూమిలో పెరగుతాయి.
+  ఇవి బీడు భూమిలో పెరగుతాయి.
 {%- endif -%}
 {%- if Drought != "NONE" -%}
  {%- if Poor_soil == "FALSE" -%}
@@ -81,14 +81,14 @@
 {%-endmacro-%}
 
 
-{%- macro pollinators(Pollinators)-%}
+{#{%- macro pollinators(Pollinators)-%}
 {{ '\n==పరాగ సంపర్కాలు(Pollinators)==\n' }}
 {%- if Pollinators != "NONE" -%}
-ఈ మొక్కల సంతతి వృద్ధిచందడానికి వీటియొక్క విత్తనాలు, పుప్పొడి {{Pollinators}} ద్వారా వ్యాప్తి చెందుతాయి.
+ఈ మొక్కల సంతతి వృద్ధిచందడానికి వీటియొక్క {{Pollinators}} ద్వారా వ్యాప్తి చెందుతాయి.
 {%- else -%}
 ఈ మొక్కల సంతతిచెందే విధానము తెలియదు.
 {%- endif -%}
-{%-endmacro-%}
+{%-endmacro-%}#}
 
 
 {%- macro known_hazards(Known_hazards)-%}
@@ -101,43 +101,48 @@
 {%-endmacro-%}
 
 
-{%- macro cultivation(Cultivation_details)-%}
+{#{%- macro cultivation(Cultivation_details)-%}
 {{ '\n==పెరుగుదలకు అనుకూల అంశాలు(Cultivation Details)==\n' }}
 {%- if Cultivation_details != "NONE" -%}
  {{Cultivation_details}}
 {%- else -%}
  ఇప్పట్టి వరకు ఈ మొక్క బాగపెరగడానికి కావాల్సిన అంశాలు తెలియవు. 
 {%- endif -%}
-{%-endmacro-%}
+{%-endmacro-%}#}
 
 
 {%- macro edible_uses(Edible_uses)-%}
 {{ '\n==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==\n' }}
 {%- if Edible_uses != "NONE" -%}
- {{Edible_uses}}
+ఈ చెట్టు యొక్క {{Edible_uses}} ఆహారంగా వినియోగించవచ్చు.(తినదగిన పదార్థాలు)  
 {%- else -%}
  ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు.  
 {%- endif -%}
 {%-endmacro-%}
 
 
-{%- macro notes(Uses_notes,Edibility_rating,Medicinal_rating,Frost_Tender,Scented)-%}
+{%- macro notes(Uses_notes,Medicinal,Edibility_rating,Medicinal_rating,Frost_Tender,Scented)-%}
 {{ '\n==ఉపయోగాలు(Uses_notes)==\n' }}
 {%- if Uses_notes != "NONE" -%}
- {{Uses_notes}}
+ఈ చెట్టు యొక్క {{Uses_notes}} మన అవసరాలకు ఉపయోగించవచ్చు.(ఉపయోగపడే పదార్థాలు) {{Uses_notes}}
+{%- else -%}
+ ఈ మొక్కల ఉపయోగాలు తెలియవు.  
+{%- endif -%}
+{%- if Uses_notes != "NONE" -%}
+ఈ చెట్టు యొక్క {{Uses_notes}} మన అవసరాలకు ఉపయోగించవచ్చు.(ఉపయోగపడే పదార్థాలు) {{Uses_notes}}
 {%- else -%}
  ఈ మొక్కల ఉపయోగాలు తెలియవు.  
 {%- endif -%}
 ఈ మొక్క యొక్క ఆహారయోగ్య సూచి {{Edibility_rating}}/5.
 ఈ మొక్క యొక్క ఆయుశ్యయొగ సూచి {{Medicinal_rating}}/5.
 {%- if Frost_Tender != "NONE" -%}
- {%- if Frost_Tender == "వై" -%}
+ {%- if Frost_Tender == "Y" -%}
   ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకాలేవు. 
  {%- else -%}
   ఈ మొక్కలు ఎక్కువ చాలిని తట్టుకోగలవు కాబట్టి చలికాలంలో కూడా బ్రతకగలవు.
  {%- endif -%}
 {%- endif -%}
-{%- if Scented != "0" -%}
+{%- if Scented != "TRUE" -%}
 ఇది సుగందమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు.
 {%- else -%}
 ఇది సువాసనమైన మొక్క కాదు.
@@ -145,10 +150,15 @@
 {%-endmacro-%}
 
 
-{%- macro propagation(Propagation)-%}
+{%- macro propagation(Propagation,Pollinators)-%}
 {{ '\n==ప్రచారణ(Propagation)==\n' }}
 {%- if Propagation != "NONE" -%}
  {{Propagation}}
+{%- endif -%}
+{%- if Pollinators != "NONE" -%}
+ఈ మొక్కల సంతతి వృద్ధిచందడానికి వీటియొక్క {{Pollinators}} ద్వారా వ్యాప్తి చెందుతాయి.
+{%- else -%}
+ఈ మొక్కల సంతతిచెందే విధానము తెలియదు.
 {%- endif -%}
 {%-endmacro-%}
 
@@ -176,10 +186,9 @@ https://pfaf.org/user/Default.aspx
 {{- introduction(Synonyms,Latin_name,Family,Common_name,Range)-}}
 {{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
 {{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
-{{- pollinators(Pollinators)-}}
 {{- known_hazards(Known_hazards)-}}
-{{- cultivation(Cultivation_details)-}}
+{#{{- cultivation(Cultivation_details)-}}#}
 {{- edible_uses(Edible_uses)-}}
-{{- notes(Uses_notes,Edibility_rating,Medicinal_rating,Frost_Tender,Scented)-}}
-{{- propagation(Propagation)-}}
+{{- notes(Uses_notes,Medicinal,Edibility_rating,Medicinal_rating,Frost_Tender,Scented)-}}
+{{- propagation(Propagation,Pollinators)-}}
 {{- References(Imagesthumb)-}}
