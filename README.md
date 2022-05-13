@@ -50,9 +50,10 @@ The total number of plant telugu wikipedia pages I created are 7416.
 6) Upload the .xml files to wikipedia.
 
 
-###Work this year:
+#Work this year:
 
 ##From the future work of last year's report:
+
 1) Corrected and completed the template
 	a) The sentences were finalisedwith the help of kasyap sir and vibha ma'am.
 	b) Infobox is added to the template.
