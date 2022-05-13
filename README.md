@@ -55,10 +55,10 @@ The total number of plant telugu wikipedia pages I created are 7416.
 ## From the future work of last year's report:
 
 ### 1) Corrected and completed the template:
-#### a) The sentences were finalisedwith the help of kasyap sir and vibha ma'am.
-#### b) Infobox is added to the template.
-#### c) categories are also included in the template.
-#### d) The article is divided into easy to understand/search categories. This is to make it easier for the user to understand/search in the wikipedia article.
+##### a) The sentences were finalisedwith the help of kasyap sir and vibha ma'am.
+##### b) Infobox is added to the template.
+##### c) categories are also included in the template.
+##### d) The article is divided into easy to understand/search categories. This is to make it easier for the user to understand/search in the wikipedia article.
 	
 ### 2) Translate sentences better using DEEPtrans:
 #### a) Tried using Deeptrans to translate the sentences but was not satisfied by the translated result.
