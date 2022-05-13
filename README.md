@@ -55,34 +55,34 @@ The total number of plant telugu wikipedia pages I created are 7416.
 ## From the future work of last year's report:
 
 ### 1) Corrected and completed the template:
-a) The sentences were finalisedwith the help of kasyap sir and vibha ma'am.
-b) Infobox is added to the template.
-c) categories are also included in the template.
-d) The article is divided into easy to understand/search categories. This is to make it easier for the user to understand/search in the wikipedia article.
+#### a) The sentences were finalisedwith the help of kasyap sir and vibha ma'am.
+#### b) Infobox is added to the template.
+#### c) categories are also included in the template.
+#### d) The article is divided into easy to understand/search categories. This is to make it easier for the user to understand/search in the wikipedia article.
 	
 ### 2) Translate sentences better using DEEPtrans:
-a) Tried using Deeptrans to translate the sentences but was not satisfied by the translated result.
-b) Then tried to translate with anuvaad only to get unsatifactory translations.
-c) Then used bing_translate for the translation of the sentences and paragraphs but the translations were just ok and some places the translation was horrible.
-d) Even tried all these methods by diving the paragraphs into sentences then translating them this was a little better compared to the before attempts but even so some of the sentences were not translating correctly as the intuition or the assuming words of translating tool makes the translation difficult to happen correctly.
-e) Due to this I gave up the idea of translating the paragraphs and decided to extract the important data from the paragraphs and then make it into structured data for using as structured data is easy to use and translate into different languages at any time.
-f) So, the data was completely converted into structure data and can be used to make into  different languages wikipedia with little effort.
+#### a) Tried using Deeptrans to translate the sentences but was not satisfied by the translated result.
+#### b) Then tried to translate with anuvaad only to get unsatifactory translations.
+#### c) Then used bing_translate for the translation of the sentences and paragraphs but the translations were just ok and some places the translation was horrible.
+#### d) Even tried all these methods by diving the paragraphs into sentences then translating them this was a little better compared to the before attempts but even so some of the sentences were not translating correctly as the intuition or the assuming words of translating tool makes the translation difficult to happen correctly.
+#### e) Due to this I gave up the idea of translating the paragraphs and decided to extract the important data from the paragraphs and then make it into structured data for using as structured data is easy to use and translate into different languages at any time.
+#### f) So, the data was completely converted into structure data and can be used to make into  different languages wikipedia with little effort.
 
 ### 3) Collect image data from wiki commons:
-a) Completed collecting images and the image thumb from the wiki commons.
+#### a) Completed collecting images and the image thumb from the wiki commons.
 	
 ### 4) Change data such that it can fit into any template so that it can be translated into different languages:
-a) Changed the data into structured data so with the help of transliteration and the translation of some attributes the data can fit any template.
+#### a) Changed the data into structured data so with the help of transliteration and the translation of some attributes the data can fit any template.
 	
 ### 5) Upload the .xml files to wikipedia:
-a)Completed creating the xml dump, will have to send it to ramu sir for checking and the upload.
+#### a)Completed creating the xml dump, will have to send it to ramu sir for checking and the upload.
 
 ### 6)Addtional changes:
-a) Transliterated many of the attributes.
-b) Experienced many translators due to relatively less accurate translators for telugu language.
-c) Got a grasp for extracting text, links, data.
-d) Added infobox and categories to the template.
-e) Extracted key words from 4 categories.
+#### a) Transliterated many of the attributes.
+#### b) Experienced many translators due to relatively less accurate translators for telugu language.
+#### c) Got a grasp for extracting text, links, data.
+#### d) Added infobox and categories to the template.
+#### e) Extracted key words from 4 categories.
 	
 	
 The final dataset which is strutured is [here](https://docs.google.com/spreadsheets/d/17XLbnxtIJ2C-HR3W_JOmWFt6p5gpSWzygAG8D9yTvuo/edit?usp=sharing).
