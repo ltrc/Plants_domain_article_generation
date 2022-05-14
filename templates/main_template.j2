@@ -1,10 +1,12 @@
-{%- macro infobox(Latin_name1,Common_name,Imagesthumb,Author,Author1,Synonyms)-%}
-	{{'{{speciesbox'}}{{" "}}
+{%- macro infobox(Latin_name,Common_name,Imagesthumb,Author,Author1,Synonyms,Family)-%}
+	{{'{{taxobox'}}{{" "}}
   {%- if Common_name != "NONE" -%}
     |name = {{Common_name}} {{" "}}
   {%- endif -%}
   |image = {{Imagesthumb}}{{" "}}
-  |taxon = {{Latin_name1}}{{" "}}
+  |species = {{Latin_name}}{{" "}}
+  |familia = {{Family}}{{" "}}
+  |regnum = మొక్కలు{{" "}}
   |authority = {{Author}}({{Author1}}){{" "}}
   {%- if Synonyms != "NONE" -%}
     |synonyms = {{Synonyms}}{{" "}}
