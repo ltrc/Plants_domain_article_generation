@@ -89,3 +89,6 @@ The final dataset which is strutured is [here](https://docs.google.com/spreadshe
 
 The code required to run this file can be viewed [here](https://colab.research.google.com/drive/1RNwc0WoeyY3_ooZnR56yYOWcFY4A0Ft4?usp=sharing)
 
+### Summary:
+
+There are 7416 plants in my plants database. Completed and finalised the database. Completed the template. Created xml files, needs to be reviewed.
