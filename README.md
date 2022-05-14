@@ -85,9 +85,11 @@ The total number of plant telugu wikipedia pages I created are 7416.
 ##### e) Extracted key words from 4 categories.
 	
 	
-The final dataset which is strutured is [here](https://docs.google.com/spreadsheets/d/17XLbnxtIJ2C-HR3W_JOmWFt6p5gpSWzygAG8D9yTvuo/edit?usp=sharing).
+The final dataset which is strutured is [here](https://docs.google.com/spreadsheets/d/17XLbnxtIJ2C-HR3W_JOmWFt6p5gpSWzygAG8D9yTvuo/edit?usp=sharing) .\n
 
-The code required to run this file can be viewed [here](https://colab.research.google.com/drive/1RNwc0WoeyY3_ooZnR56yYOWcFY4A0Ft4?usp=sharing)
+The code required to run this file can be viewed [here](https://colab.research.google.com/drive/1RNwc0WoeyY3_ooZnR56yYOWcFY4A0Ft4?usp=sharing) . \n
+
+The sample article can be viewed [here](https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BE%E0%B0%A1%E0%B1%81%E0%B0%95%E0%B0%B0%E0%B0%BF:Srijith2002) .\n
 
 ### Summary:
 
