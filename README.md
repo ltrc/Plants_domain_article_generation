@@ -55,17 +55,17 @@ The total number of plant telugu wikipedia pages I created are 7416.
 ## From the future work of last year's report:
 
 ### 1) Corrected and completed the template:
- a) The sentences were finalisedwith the help of kasyap sir and vibha ma'am.\
- b) Infobox is added to the template.\
- c) categories are also included in the template.\
+ a) The sentences were finalisedwith the help of kasyap sir and vibha ma'am.<br />
+ b) Infobox is added to the template.<br />
+ c) categories are also included in the template.<br />
  d) The article is divided into easy to understand/search categories. This is to make it easier for the user to understand/search in the wikipedia article.
 	
 ### 2) Translate sentences better using DEEPtrans:
- a) Tried using Deeptrans to translate the sentences but was not satisfied by the translated result.\
- b) Then tried to translate with anuvaad only to get unsatifactory translations.\
- c) Then used bing_translate for the translation of the sentences and paragraphs but the translations were just ok and some places the translation was horrible.\
- d) Even tried all these methods by diving the paragraphs into sentences then translating them this was a little better compared to the before attempts but even so some of the sentences were not translating correctly as the intuition or the assuming words of translating tool makes the translation difficult to happen correctly.\
- e) Due to this I gave up the idea of translating the paragraphs and decided to extract the important data from the paragraphs and then make it into structured data for using as structured data is easy to use and translate into different languages at any time.\
+ a) Tried using Deeptrans to translate the sentences but was not satisfied by the translated result.<br />
+ b) Then tried to translate with anuvaad only to get unsatifactory translations.<br />
+ c) Then used bing_translate for the translation of the sentences and paragraphs but the translations were just ok and some places the translation was horrible.<br />
+ d) Even tried all these methods by diving the paragraphs into sentences then translating them this was a little better compared to the before attempts but even so some of the sentences were not translating correctly as the intuition or the assuming words of translating tool makes the translation difficult to happen correctly.<br />
+ e) Due to this I gave up the idea of translating the paragraphs and decided to extract the important data from the paragraphs and then make it into structured data for using as structured data is easy to use and translate into different languages at any time.<br />
  f) So, the data was completely converted into structure data and can be used to make into  different languages wikipedia with little effort.
 
 ### 3) Collect image data from wiki commons:
@@ -78,10 +78,10 @@ The total number of plant telugu wikipedia pages I created are 7416.
  a)Completed creating the xml dump, will have to send it to ramu sir for checking and the upload.
 
 ### 6)Addtional changes:
- a) Transliterated many of the attributes.\
- b) Experienced many translators due to relatively less accurate translators for telugu language.\
- c) Got a grasp for extracting text, links, data.\
- d) Added infobox and categories to the template.\
+ a) Transliterated many of the attributes.<br />
+ b) Experienced many translators due to relatively less accurate translators for telugu language.<br />
+ c) Got a grasp for extracting text, links, data.<br />
+ d) Added infobox and categories to the template.<br />
  e) Extracted key words from 4 categories.
 	
 	
