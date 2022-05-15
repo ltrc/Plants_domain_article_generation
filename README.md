@@ -23,7 +23,7 @@ The total number of plant telugu wikipedia pages I created are 7416.
 2) Machine translating the plants database.<br />
 3) Prepared a database for plants using 40 attributes and 7416 types.<br />
 4) Post editing and formatiing the machine translated data.<br />
-5) Final plants database [Here](https://docs.google.com/spreadsheets/d/1lbGH9-2tr1NSMClUi_FNch0qDr9RmBPmwqZAEQ0M4oI/edit#gid=0)\
+5) Final plants database [Here](https://docs.google.com/spreadsheets/d/1lbGH9-2tr1NSMClUi_FNch0qDr9RmBPmwqZAEQ0M4oI/edit#gid=0).
 
 ### Methodology:
 1) First collect the data to make a dataset.<br />
