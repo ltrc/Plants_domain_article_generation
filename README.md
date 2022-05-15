@@ -12,8 +12,8 @@ The aim of this Honors project is to increase the number of Telugu wikipedia pag
 The total number of plant telugu wikipedia pages I created are 7416.
 
 ### Objectives:
-1) Scraping the data for plants to create a plant database.\
-2) Machine translating the data into Telugu.\
+1) Scraping the data for plants to create a plant database.<br />
+2) Machine translating the data into Telugu.<br />
 3) Creating a Template for wikipedia article.\
 4) Creating .xml for wikipedia articles.
 
