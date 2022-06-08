@@ -1,0 +1,236 @@
+{%- macro infobox(Latin_name1,Common_name,Family,Images,Author,Author1,Synonyms)-%}
+	{{'{{taxobox'}}{{" "}}
+  {%- if Common_name != "NONE" -%}
+    |name = {{Common_name}} {{" "}}
+  {%- endif -%}
+  |image = {{Images}}{{" "}}
+  |taxon = {{Latin_name1}}{{" "}}
+  |familia = {{Family}}{{" "}}
+  |regnum = [[ప్లాంటే]]{{" "}}
+  |authority = {{Author}}({{Author1}}){{" "}}
+  {%- if Synonyms != "NONE" -%}
+    |synonyms = {{Synonyms}}{{" "}}
+  {%- endif -%}
+  {{'}}\n'}}
+{%-endmacro-%}
+
+{%- macro introduction(Synonyms,Latin_name,Family,Common_name,Range)-%}
+{%- if Synonyms != "NONE" -%}
+ {{Synonyms}} అనే మొక్క శాస్త్రీయ నామము {{Latin_name}}.{{" "}} 
+{%- else -%}
+ దీని శాస్త్రీయ నామము {{Latin_name}}.{{" "}}
+{%- endif -%}
+ ఇది {{Family}} కుటుంబానికి చెందినది.{{" "}}
+{%- if Common_name != "NONE" -%}
+ దీని సాధారణ నామము {{Common_name}}.{{" "}}
+{%- endif -%}
+{%- if Range != "NONE" -%}
+ ఈ మొక్క {{Range}} ప్రాంతాల్లో ఎక్కువగా పెరుగును.{{" "}}
+{%- endif -%}
+{%-endmacro-%}
+
+
+{%- macro description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
+{{ '\n==వివరణ(Description)==\n' }}
+{%- if Habit != "NONE" -%}
+ {{Latin_name}} {{Habit}}లా ఎదిగే మొక్క.{{" "}}
+{%- endif -%}
+{%- if Deciduous_Evergreen != "NONE" -%}
+ ఇది {{Deciduous_Evergreen}} మొక్క.{{" "}}
+{%- endif -%}
+ ఈ మొక్క దాదాపుగా{{" "}}
+{%- if Height != "NONE" -%}
+ {{Height}} మెటర్లు పొడువు{{" "}}
+{%- endif -%}
+{%- if Width != "NONE" -%}
+ మరియు {{Width}} మెటర్లు వెడల్పు {{" "}}
+{%- endif -%}
+ వరకు పెరుగును.{{" "}}
+{%-endmacro-%}
+
+
+{%- macro taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay)-%}
+{{ '\n==వర్గీకరణ(Taxonomy)==\n' }}
+{{Latin_name}}{{" "}}
+{%- if Soil != "NONE" -%}
+ {{Soil}}{{" "}}
+{%- endif -%}
+{%- if Growth_rate != "NONE" -%}
+ {{Growth_rate}}గా పెరిగే మొక్క.{{" "}}
+{%- endif -%}
+{%- if Moisture != "NONE" -%}
+ ఈ మొక్క పెరుగుదలకు {{Moisture}} ఉన్న భూములు అనుకూలం.{{" "}}
+{%- endif -%}
+{%- if Shade != "NONE" -%}
+ ఇవి {{Shade}}ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి.{{" "}}
+{%- endif -%}
+{%- if Nitrogen_fixer != "TRUE" -%}
+ ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి.{{" "}}
+{%- endif -%}
+{%- if Poor_soil != "NONE" -%}
+ {%- if Poor_soil == "TRUE" -%}
+  ఇవి బీడు భూమిలో పెరగుతాయి.{{" "}}
+ {%- endif -%} 
+{%- endif -%}
+{%- if Drought != "NONE" -%}
+ {%- if Drought == "TRUE" -%}
+  ఈ మొక్కలు నీటి ఎద్దడిని కూడా తట్టుకొని పెరగుతాయి.{{" "}}
+ {%- endif -%} 
+{%- endif -%}
+{%- if Heavy_clay != "TRUE" -%}
+ ఈ మొక్కలు బురుద నెలల్లో పెరగుతాయి.{{" "}}
+{%- endif -%}
+{%- if Frost_Tender != "NONE" -%}
+ {%- if Frost_Tender == "N" -%}
+  ఈ మొక్కలు ఎక్కువ చాలిని తట్టుకోగలవు కాబట్టి చలికాలంలో కూడా బ్రతకగలవు.{{" "}}
+ {%- endif -%}
+{%- endif -%}
+{%- if Self_fertile != "TRUE" -%}
+ ఈ మొక్కలు స్వసంపర్యము జరుపుకోగలవు.{{" "}}
+{%- endif -%}
+{%- if Drought != "NONE" -%}
+ {%- if Drought == "FALSE" -%}
+  ఈ మొక్కలు నీటి ఎద్దడిని కూడా తట్టుకొని పెరగవు.{{" "}}
+ {%- endif -%} 
+{%- endif -%}
+{%- if Poor_soil != "NONE" -%}
+ {%- if Poor_soil == "FALSE" -%}
+  ఇవి బీడు భూమిలో పెరగవు.{{" "}}
+ {%- endif -%} 
+{%- endif -%}
+{%- if Self_fertile != "FALSE" -%}
+ ఈ మొక్కలు స్వసంపర్యము జరుపుకోలేవు.{{" "}}
+{%- endif -%}
+{%- if Heavy_clay != "FALSE" -%}
+ ఈ మొక్కలు బురుద నెలల్లో పెరగవు.{{" "}}
+{%- endif -%}
+{%- if Frost_Tender != "NONE" -%}
+ {%- if Frost_Tender == "Y" -%}
+  ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకాలేవు.{{" "}} 
+ {%- endif -%}
+{%- endif -%}
+{%-endmacro-%}
+
+
+{#{%- macro pollinators(Pollinators)-%}
+{{ '\n==పరాగ సంపర్కాలు(Pollinators)==\n' }}
+{%- if Pollinators != "NONE" -%}
+ఈ మొక్కల సంతతి వృద్ధిచందడానికి వీటియొక్క {{Pollinators}} ద్వారా వ్యాప్తి చెందుతాయి.{{" "}}
+{%- else -%}
+ఈ మొక్కల సంతతిచెందే విధానము తెలియదు.
+{%- endif -%}
+{%-endmacro-%}#}
+
+
+{%- macro known_hazards(Known_hazards)-%}
+{{ '\n==ప్రమాద/ విషస్వభావాలు(Known hazards)==\n' }}
+{%- if Known_hazards != "NONE" -%}
+ {{Known_hazards}}.{{" "}}
+{%- else -%}
+ ఇప్పట్టి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు.{{" "}}
+{%- endif -%}
+{%-endmacro-%}
+
+
+{#{%- macro cultivation(Cultivation_details)-%}
+{{ '\n==పెరుగుదలకు అనుకూల అంశాలు(Cultivation Details)==\n' }}
+{%- if Cultivation_details != "NONE" -%}
+ {{Cultivation_details}}
+{%- else -%}
+ ఇప్పట్టి వరకు ఈ మొక్క బాగపెరగడానికి కావాల్సిన అంశాలు తెలియవు. 
+{%- endif -%}
+{%-endmacro-%}#}
+
+
+{%- macro edible_uses(Edible_uses)-%}
+{{ '\n==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==\n' }}
+{%- if Edible_uses != "NONE" -%}
+ఈ చెట్టు {{Edible_uses}} ఆహారంగా వినియోగించవచ్చు.(తినదగిన పదార్థాలు).{{" "}}  
+{%- else -%}
+ ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు.{{" "}}
+{%- endif -%}
+{%-endmacro-%}
+
+
+{%- macro notes(Uses_notes,Medicinal,Edibility_rating,Medicinal_rating,Frost_Tender,Scented)-%}
+{{ '\n==ఉపయోగాలు(Uses_notes)==\n' }}
+{%- if Uses_notes != "NONE" -%}
+ఈ చెట్టు {{Uses_notes}} మన అవసరాలకు ఉపయోగించవచ్చు.(ఉపయోగపడే పదార్థాలు).{{" "}}
+{%- else -%}
+ ఈ మొక్కల ఉపయోగాలు తెలియవు. {{" "}}
+{%- endif -%}
+{%- if Medicinal != "NONE" -%}
+ఈ చెట్టు {{Medicinal}} ఔషధ పదార్థాలు .{{" "}}
+{%- else -%}
+ ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు.{{" "}}  
+{%- endif -%}
+ఈ మొక్క యొక్క ఆహారయోగ్య సూచి {{Edibility_rating}}/5.{{" "}}
+ఈ మొక్క యొక్క ఆయుశ్యయొగ సూచి {{Medicinal_rating}}/5.{{" "}}
+{%- if Scented != "TRUE" -%}
+ఇది సుగందమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు.{{" "}}
+{%- endif -%}
+{%-endmacro-%}
+
+
+{%- macro propagation(Propagation,Pollinators)-%}
+{{ '\n==ప్రచారణ(Propagation)==\n' }}
+{%- if Propagation != "NONE" -%}
+ ఈ మొక్కల {{Propagation}} ద్వారా వృద్ధి చెందుతాయి.{{" "}}
+{%- endif -%}
+{%- if Pollinators != "NONE" -%}
+ఈ మొక్కల సంతతి {{Pollinators}} ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి.{{" "}}
+{%- else -%}
+ఈ మొక్కల సంతతిచెందే విధానము తెలియదు.{{" "}}
+{%- endif -%}
+{%-endmacro-%}
+
+{# {%- macro edibility(Edibility_rating)-%}
+{{ '\n==ఆహారయోగ్య సూచి(Edibility Rating)[0-5]==\n' }}
+{%- if Edibility_rating != "NONE" -%}
+ ఈ మొక్క యొక్క ఆహారయోగ్య సూచి {{Edibility_rating}}/5.
+{%- endif -%}
+{%-endmacro-%}#}
+
+
+{%- macro author(Author, Author1)-%}
+{{ '\n==Author==\n' }}
+ఈ డేటా రచయిత {{Author}}({{Author1}}).
+{%-endmacro-%} 
+
+{%- macro References(Latin_name,Family,Common_name)-%}
+{{'\n==మూలాలు==\n'}}
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+{{- "\n" -}}
+* {{- " {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}" -}}
+{{- "\n" -}}
+* {{- " {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}" -}}
+{{- "\n\n" -}}
+
+[[వర్గం:Plants|]]
+[[వర్గం:Plantae|]]
+[[వర్గం:ప్లాంటే]]{{" "}}
+{%- if Latin_name!=NONE %}
+  [[వర్గం:{{Latin_name}}]]
+{%endif-%}
+{%- if Family!=NONE %}
+  [[వర్గం:{{Family}}]]
+{%endif-%}
+{%- if Common_name!=NONE %}
+  [[వర్గం:{{Common_name}}]]
+{%endif-%}
+{%-endmacro-%}
+
+
+
+{{- infobox(Latin_name1,Common_name,Family,Images,Author,Author1,Synonyms)-}}
+{{- introduction(Synonyms,Latin_name,Family,Common_name,Range)-}}
+{{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
+{{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
+{{- known_hazards(Known_hazards)-}}
+{#{{- cultivation(Cultivation_details)-}}#}
+{{- edible_uses(Edible_uses)-}}
+{{- notes(Uses_notes,Medicinal,Edibility_rating,Medicinal_rating,Frost_Tender,Scented)-}}
+{{- propagation(Propagation,Pollinators)-}}
+{{- author(Author, Author1)-}}
+{{- References(Latin_name,Family,Common_name)-}}
