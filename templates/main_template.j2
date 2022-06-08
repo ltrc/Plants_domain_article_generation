@@ -1,10 +1,12 @@
-{%- macro infobox(Latin_name1,Common_name,Imagesthumb,Author,Author1,Synonyms)-%}
-	{{'{{speciesbox'}}{{" "}}
+{%- macro infobox(Latin_name1,Common_name,Family,Imagesthumb,Author,Author1,Synonyms)-%}
+	{{'{{taxobox'}}{{" "}}
   {%- if Common_name != "NONE" -%}
     |name = {{Common_name}} {{" "}}
   {%- endif -%}
   |image = {{Imagesthumb}}{{" "}}
   |taxon = {{Latin_name1}}{{" "}}
+  |familia = {{Family}}{{" "}}
+  |regnum = [[ప్లాంటే]]{{" "}}
   |authority = {{Author}}({{Author1}}){{" "}}
   {%- if Synonyms != "NONE" -%}
     |synonyms = {{Synonyms}}{{" "}}
@@ -209,7 +211,7 @@
 
 
 
-{{- infobox(Latin_name1,Common_name,Imagesthumb,Author,Author1,Synonyms)-}}
+{{- infobox(Latin_name1,Common_name,Family,Imagesthumb,Author,Author1,Synonyms)-}}
 {{- introduction(Synonyms,Latin_name,Family,Common_name,Range)-}}
 {{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
 {{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
