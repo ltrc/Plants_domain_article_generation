@@ -7,13 +7,14 @@ from genXML import tewiki, writePage
 
 def getData(row,i):
 	data = {
-		'Index': row.Index.values[0],
+		'Index': (row.Index.values[0]),
 		'Synonyms': (row.Synonyms.values[0]),
 		'Latin_name':row.Latin_name.values[0],
+		'Latin_name1':row.Latin_name1.values[0],
 		'Family':row.Family.values[0],
 		'Common_name':row.Common_name.values[0],
-		'Habit':row.Habit.values[0],
-		'Deciduous/Evergreen':row.Deciduous_Evergreen.values[0],
+		'Habit':(row.Habit.values[0]),
+		'Deciduous_Evergreen':row.Deciduous_Evergreen.values[0],
 		'Height':row.Height.values[0],
 		'Width':row.Width.values[0],
 		'UK_Hardiness':row.UK_Hardiness.values[0],
@@ -21,7 +22,7 @@ def getData(row,i):
 		'Range':row.Range.values[0],
 		'Habitat':row.Habitat.values[0],
 		'Soil':row.Soil.values[0],
-		'Shade':row.Shade.values[0],
+		'Shade':(row.Shade.values[0]),
 		'Moisture':row.Moisture.values[0],
 		'Well_drained':row.Well_drained.values[0],
 		'Nitrogen_fixer':row.Nitrogen_fixer.values[0],
@@ -47,6 +48,7 @@ def getData(row,i):
 		'Frost_Tender':row.Frost_Tender.values[0],
 		'Scented':row.Scented.values[0],
 		'Medicinal_rating':row.Medicinal_rating.values[0],
+		'Image':row.Image.values[0],
 		'Images':row.Images.values[0],
 		'Imagesthumb':row.Imagesthumb.values[0],
 		'Author1':row.Author1.values[0],
@@ -72,14 +74,14 @@ def main():
 
 	# print(type(plantsDF.iloc[0]))
 	# Initiate the file object
-	fobj = open('1.xml', 'w')
+	fobj = open('final.xml', 'w')
 	fobj.write(tewiki+'\n')
 
 	# Give the page_id from which you want to generate the articles in
 	initial_page_id = 500000
 
 	# Loop to grab all data from the .pkl and generate articles using the template
-	for i in range(len(ids)):
+	for i in ids:
 		row = plantsDF.loc[(plantsDF['Index']==i+1)]
 		title = row.Latin_name.values[0]
 		text = template.render(getData(row,i))
