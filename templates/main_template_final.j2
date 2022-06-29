@@ -13,7 +13,45 @@
   {%- endif -%}
   {{'}}\n'}}
 {%-endmacro-%}
-
+{#{%- macro tabox(Image,Latin_name)-%}
+  {{'{{taxobox'}}
+  |name = {{Latin_name}}
+  |image = {{Image}}
+  {{'}}\n'}}
+{%- endmacro -%}}
+{%- macro infobox(Latin_name,Common_name,Family,Image,Author,Author1,Synonyms,Height,Width,Medicinal_rating,Edibility_rating,pH,Range)-%}
+{%- if Range == 'None' -%}
+    {%- set Range='NA' -%}
+{%- endif -%}
+{%- if Width == 'None' -%}
+    {%- set Width='NA' -%}
+{%- endif -%}
+	{{'{{Infobox'}}
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = {{Family}}
+| label2 = సాధారణ నామము
+| data2 = {{Common_name}}
+| label3 = ఎత్తు
+| data3 = {{Height}}
+| label4 = వెడల్పు
+| data4 = {{Width}}
+| label5 = ఆయుష్య యొగసూచి
+| data5 = {{Medicinal_rating}}
+| label6 = ఆహార యోగ్యసూచి
+| data6	= {{Edibility_rating}}
+| label8 =  శ్రేణి
+| data8	= {{Range}}
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+| data12 =  image
+| label12 = {{Image}}
+	{{'}}\n'}}
+{%- endmacro -%}}
+#}
 {%- macro introduction(Synonyms,Latin_name,Family,Common_name,Range)-%}
 {%- if Synonyms != "NONE" -%}
  {{Synonyms}} అనే మొక్క శాస్త్రీయ నామము {{Latin_name}}.{{" "}} 
@@ -228,7 +266,9 @@
 {%-endmacro-%}
 
 
-
+{#{{- tabox(Image,Latin_name) -}}
+{{- infobox(Latin_name,Common_name,Family,Image,Author,Author1,Synonyms,Height,Width,Medicinal_rating,Edibility_rating,pH,Range)-}}
+#}
 {{- infobox(Latin_name1,Common_name,Family,Image,Author,Author1,Synonyms)-}}
 {{- introduction(Synonyms,Latin_name,Family,Common_name,Range)-}}
 {{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
