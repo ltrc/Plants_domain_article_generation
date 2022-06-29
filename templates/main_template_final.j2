@@ -32,18 +32,20 @@
 
 {%- macro description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
 {{ '\n==వివరణ(Description)==\n' }}
-{%- if Habit != "NONE" -%}
+{%- if Habit != "చెట్టు" and "పొద" -%}
  {{Latin_name}} {{Habit}}లా ఎదిగే మొక్క.{{" "}}
+{%- elif Habit == 'శాశ్వత' and 'వార్షిక' -%}
+ {{Latin_name}} {{Habit}}ంగా  ఎదిగే మొక్క.{{" "}}
 {%- endif -%}
 {%- if Deciduous_Evergreen != "NONE" -%}
  ఇది {{Deciduous_Evergreen}} మొక్క.{{" "}}
 {%- endif -%}
  ఈ మొక్క దాదాపుగా{{" "}}
 {%- if Height != "NONE" -%}
- {{Height}} మెటర్లు పొడువు{{" "}}
+ {{Height}} మీటర పొడువు{{" "}}
 {%- endif -%}
 {%- if Width != "NONE" -%}
- మరియు {{Width}} మెటర్లు వెడల్పు {{" "}}
+ మరియు {{Width}} మీటర వెడల్పు {{" "}}
 {%- endif -%}
  వరకు పెరుగును.{{" "}}
 {%-endmacro-%}
@@ -56,7 +58,9 @@
  {{Soil}}{{" "}}
 {%- endif -%}
 {%- if Growth_rate != "NONE" -%}
- {{Growth_rate}}గా పెరిగే మొక్క.{{" "}}
+ {{Growth_rate}} పెరిగే మొక్క.{{" "}}
+{%-else-%}
+ పెరిగే మొక్క.{{" "}}
 {%- endif -%}
 {%- if Moisture != "NONE" -%}
  ఈ మొక్క పెరుగుదలకు {{Moisture}} ఉన్న భూములు అనుకూలం.{{" "}}
@@ -86,7 +90,7 @@
  {%- endif -%}
 {%- endif -%}
 {%- if Self_fertile != "TRUE" -%}
- ఈ మొక్కలు స్వసంపర్యము జరుపుకోగలవు.{{" "}}
+ ఈ మొక్కలు స్వసంపర్కం జరుపుకోగలవు.{{" "}}
 {%- endif -%}
 {%- if Drought != "NONE" -%}
  {%- if Drought == "FALSE" -%}
@@ -99,14 +103,14 @@
  {%- endif -%} 
 {%- endif -%}
 {%- if Self_fertile != "FALSE" -%}
- ఈ మొక్కలు స్వసంపర్యము జరుపుకోలేవు.{{" "}}
+ ఈ మొక్కలు స్వసంపర్కం జరుపుకోలేవు.{{" "}}
 {%- endif -%}
 {%- if Heavy_clay != "FALSE" -%}
  ఈ మొక్కలు బురుద నెలల్లో పెరగవు.{{" "}}
 {%- endif -%}
 {%- if Frost_Tender != "NONE" -%}
  {%- if Frost_Tender == "Y" -%}
-  ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకాలేవు.{{" "}} 
+  ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు.{{" "}} 
  {%- endif -%}
 {%- endif -%}
 {%-endmacro-%}
