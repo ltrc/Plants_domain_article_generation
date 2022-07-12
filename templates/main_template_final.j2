@@ -20,11 +20,14 @@
   {{'}}\n'}}
 {%- endmacro -%}
 {%- macro infobox(Latin_name,Common_name,Family,Image,Author,Author1,Synonyms,Height,Width,Medicinal_rating,Edibility_rating,pH,Range)-%}
-{%- if Range == 'None' -%}
-    {%- set Range='NA' -%}
+{%- if Range == 'NONE' -%}
+  {%- set Range='NA' -%}
 {%- endif -%}
-{%- if Width == 'None' -%}
-    {%- set Width='NA' -%}
+{%- if Width == 'NONE' -%}
+  {%- set Width='NA' -%}
+{%- endif -%}
+{%- if Common_name == 'NONE' -%}
+  {%- set Common_name='NA' -%}
 {%- endif -%}
 	{{'{{Infobox'}}
 | bodystyle = width:25em;text-align:center;
@@ -36,19 +39,17 @@
 | label2 = సాధారణ నామము
 | data2 = {{Common_name}}
 | label3 = ఎత్తు
-| data3 = {{Height}}
+| data3 = {{Height}}ft
 | label4 = వెడల్పు
-| data4 = {{Width}}
+| data4 = {{Width}}ft
 | label5 = ఆయుష్య యొగసూచి
-| data5 = {{Medicinal_rating}}
+| data5 = {{Medicinal_rating}}/5
 | label6 = ఆహార యోగ్యసూచి
-| data6	= {{Edibility_rating}}
+| data6	= {{Edibility_rating}}/5
 | label8 =  శ్రేణి
 | data8	= {{Range}}
 | label9 = రాజ్యం(Regnum)
 | data9 = ప్లాంటే
-| data12 =  image
-| label12 = {{Image}}
 	{{'}}\n'}}
 {%- endmacro -%}
 {%- macro introduction(Synonyms,Latin_name,Family,Common_name,Range)-%}
