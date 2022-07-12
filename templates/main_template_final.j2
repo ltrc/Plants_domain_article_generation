@@ -1,5 +1,5 @@
-{%- macro infobox(Latin_name1,Common_name,Family,Image,Author,Author1,Synonyms)-%}
-	{{'{{taxobox'}}{{" "}}
+{#{%- macro infobox(Latin_name1,Common_name,Family,Image,Author,Author1,Synonyms)-%}
+	{{'{{taxobox'}}
   {%- if Common_name != "NONE" -%}
     |name = {{Common_name}} {{" "}}
   {%- endif -%}
@@ -12,13 +12,13 @@
     |synonyms = {{Synonyms}}{{" "}}
   {%- endif -%}
   {{'}}\n'}}
-{%-endmacro-%}
-{#{%- macro tabox(Image,Latin_name)-%}
+{%-endmacro-%}#}
+{%- macro tabox(Image,Latin_name)-%}
   {{'{{taxobox'}}
   |name = {{Latin_name}}
   |image = {{Image}}
   {{'}}\n'}}
-{%- endmacro -%}}
+{%- endmacro -%}
 {%- macro infobox(Latin_name,Common_name,Family,Image,Author,Author1,Synonyms,Height,Width,Medicinal_rating,Edibility_rating,pH,Range)-%}
 {%- if Range == 'None' -%}
     {%- set Range='NA' -%}
@@ -50,8 +50,7 @@
 | data12 =  image
 | label12 = {{Image}}
 	{{'}}\n'}}
-{%- endmacro -%}}
-#}
+{%- endmacro -%}
 {%- macro introduction(Synonyms,Latin_name,Family,Common_name,Range)-%}
 {%- if Synonyms != "NONE" -%}
  {{Synonyms}} అనే మొక్క శాస్త్రీయ నామము {{Latin_name}}.{{" "}} 
@@ -254,22 +253,23 @@
 [[వర్గం:Plants]]
 [[వర్గం:Plantae]]
 [[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]] 
 {%- if Latin_name!=NONE %}
-  [[వర్గం:{{Latin_name}}]]
+[[వర్గం:{{Latin_name}}]]
 {%endif-%}
 {%- if Family!=NONE %}
-  [[వర్గం:{{Family}}]]
+[[వర్గం:{{Family}}]]
 {%endif-%}
 {%- if Common_name!=NONE %}
-  [[వర్గం:{{Common_name}}]]
+[[వర్గం:{{Common_name}}]]
 {%endif-%}
 {%-endmacro-%}
 
 
-{#{{- tabox(Image,Latin_name) -}}
+{{- tabox(Image,Latin_name) -}}
 {{- infobox(Latin_name,Common_name,Family,Image,Author,Author1,Synonyms,Height,Width,Medicinal_rating,Edibility_rating,pH,Range)-}}
+{#{{- infobox(Latin_name1,Common_name,Family,Image,Author,Author1,Synonyms)-}}
 #}
-{{- infobox(Latin_name1,Common_name,Family,Image,Author,Author1,Synonyms)-}}
 {{- introduction(Synonyms,Latin_name,Family,Common_name,Range)-}}
 {{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
 {{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
