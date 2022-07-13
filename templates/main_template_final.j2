@@ -39,9 +39,9 @@
 | label2 = సాధారణ నామము
 | data2 = {{Common_name}}
 | label3 = ఎత్తు
-| data3 = {{Height}}ft
+| data3 = {{Height}}m
 | label4 = వెడల్పు
-| data4 = {{Width}}ft
+| data4 = {{Width}}m
 | label5 = ఆయుష్య యొగసూచి
 | data5 = {{Medicinal_rating}}/5
 | label6 = ఆహార యోగ్యసూచి
@@ -65,7 +65,7 @@
 {%- if Range != "Unknown" and 'పెరుగుతాయి' in Range -%}
  ఈ మొక్క {{Range}}.{{" "}}
 {%-elif Range != "Unknown" -%}
- ఈ మొక్క {{Range}} ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయిు.{{" "}}
+ ఈ మొక్క {{Range}} ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి.{{" "}}
 {%- endif -%}
 {%-endmacro-%}
 
@@ -82,10 +82,10 @@
 {%- endif -%}
  ఈ మొక్క దాదాపుగా{{" "}}
 {%- if Height != "NONE" -%}
- {{Height}} మీటర పొడువు{{" "}}
+ {{Height}} మీటర్ల పొడువు{{" "}}
 {%- endif -%}
 {%- if Width != "NONE" -%}
-, {{Width}} మీటర వెడల్పు {{" "}}
+, {{Width}} మీటర్ల వెడల్పు {{" "}}
 {%- endif -%}
  వరకు పెరుగును.{{" "}}
 {%-endmacro-%}
@@ -129,7 +129,12 @@
   ఈ మొక్కలు ఎక్కువ చాలిని తట్టుకోగలవు కాబట్టి చలికాలంలో కూడా బ్రతకగలవు.{{" "}}
  {%- endif -%}
 {%- endif -%}
-{%- if Self_fertile != "Y" -%}
+{%- if Self_fertile != "NONE" -%}
+ {%- if Self_fertile == "Y" -%}
+  ఈ మొక్కలు నీటి ఎద్దడిని కూడా తట్టుకొని పెరగవు.{{" "}}
+ {%-else-%}
+  ఈ మొక్కలు స్వసంపర్కం జరుపుకోలేవు.
+ {%- endif -%}
  ఈ మొక్కలు స్వసంపర్కం జరుపుకోగలవు.{{" "}}
 {%- endif -%}
 {%- if Drought != "NONE" -%}
@@ -141,9 +146,6 @@
  {%- if Poor_soil == "FALSE" -%}
   ఇవి బీడు భూమిలో పెరగవు.{{" "}}
  {%- endif -%} 
-{%- endif -%}
-{%- if Self_fertile != "N" -%}
- ఈ మొక్కలు స్వసంపర్కం జరుపుకోలేవు.{{" "}}
 {%- endif -%}
 {%- if Heavy_clay != "FALSE" -%}
  ఈ మొక్కలు బురుద నేలల్లో పెరగవు.{{" "}}
@@ -171,7 +173,7 @@
 {%- if Known_hazards != "NONE" -%}
  {{Known_hazards}}.{{" "}}
 {%- else -%}
- ఇప్పట్టి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు.{{" "}}
+ ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు.{{" "}}
 {%- endif -%}
 {%-endmacro-%}
 
@@ -189,7 +191,7 @@
 {%- macro edible_uses(Edible_uses)-%}
 {{ '\n==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==\n' }}
 {%- if Edible_uses != "NONE" -%}
-ఈ చెట్టు {{Edible_uses}} ఆహారంగా వినియోగించవచ్చు.(తినదగిన పదార్థాలు).{{" "}}  
+ఈ చెట్టు {{Edible_uses}} ఆహారంగా వినియోగించవచ్చు.{{" "}}  
 {%- else -%}
  ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు.{{" "}}
 {%- endif -%}
@@ -199,7 +201,7 @@
 {%- macro notes(Uses_notes,Medicinal,Edibility_rating,Medicinal_rating,Frost_Tender,Scented)-%}
 {{ '\n==ఉపయోగాలు(Uses_notes)==\n' }}
 {%- if Uses_notes != "NONE" -%}
-ఈ చెట్టు {{Uses_notes}} మన అవసరాలకు ఉపయోగించవచ్చు.(ఉపయోగపడే పదార్థాలు).{{" "}}
+ఈ చెట్టు {{Uses_notes}} మన అవసరాలకు ఉపయోగించవచ్చు.{{" "}}
 {%- else -%}
  ఈ మొక్కల ఉపయోగాలు తెలియవు. {{" "}}
 {%- endif -%}
@@ -266,7 +268,7 @@
 {%endif-%}
 {%-endmacro-%}
 
-
+{#- Latin_name -#}
 {{- tabox(Image,Latin_name) -}}
 {{- infobox(Latin_name,Common_name,Family,Image,Author,Author1,Synonyms,Height,Width,Medicinal_rating,Edibility_rating,pH,Range)-}}
 {#{{- infobox(Latin_name1,Common_name,Family,Image,Author,Author1,Synonyms)-}}
