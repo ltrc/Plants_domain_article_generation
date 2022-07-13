@@ -1,0 +1,4338 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="te">
+	<siteinfo>
+		<sitename>tewiki</sitename>
+		<dbname>indicwiki</dbname>
+		<base>https://tewiki.iiit.ac.in/index.php/%E0%B0%AE%E0%B1%8A%E0%B0%A6%E0%B0%9F%E0%B0%BF_%E0%B0%AA%E0%B1%87%E0%B0%9C%E0%B1%80</base>
+		<generator>MediaWiki 1.34.0</generator>
+		<case>first-letter</case>
+		<namespaces>
+			<namespace key="-2" case="first-letter">మీడియా</namespace>
+			<namespace key="-1" case="first-letter">ప్రత్యేక</namespace>
+			<namespace key="0" case="first-letter" />
+			<namespace key="1" case="first-letter">చర్చ</namespace>
+			<namespace key="2" case="first-letter">వాడుకరి</namespace>
+			<namespace key="3" case="first-letter">వాడుకరి చర్చ</namespace>
+			<namespace key="4" case="first-letter">Project</namespace>
+			<namespace key="5" case="first-letter">Project చర్చ</namespace>
+			<namespace key="6" case="first-letter">దస్త్రం</namespace>
+			<namespace key="7" case="first-letter">దస్త్రంపై చర్చ</namespace>
+			<namespace key="8" case="first-letter">మీడియావికీ</namespace>
+			<namespace key="9" case="first-letter">మీడియావికీ చర్చ</namespace>
+			<namespace key="10" case="first-letter">మూస</namespace>
+			<namespace key="11" case="first-letter">మూస చర్చ</namespace>
+			<namespace key="12" case="first-letter">సహాయం</namespace>
+			<namespace key="13" case="first-letter">సహాయం చర్చ</namespace>
+			<namespace key="14" case="first-letter">వర్గం</namespace>
+			<namespace key="15" case="first-letter">వర్గం చర్చ</namespace>
+			<namespace key="828" case="first-letter">మాడ్యూల్</namespace>
+			<namespace key="829" case="first-letter">మాడ్యూల్ చర్చ</namespace>
+			<namespace key="2300" case="first-letter">Gadget</namespace>
+			<namespace key="2301" case="first-letter">Gadget talk</namespace>
+			<namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+			<namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+			<namespace key="2600" case="first-letter">Topic</namespace>
+		</namespaces>
+	</siteinfo>
+
+
+
+
+	<page>
+		<title>అబెల్మోస్కస్ ఎస్కులెంటస్</title>
+		<ns>0</ns>
+		<id>500000</id>
+		<revision>
+			<id>500000</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2540">
+			
+{{taxobox
+  |name = అబెల్మోస్కస్ ఎస్కులెంటస్
+  |image = Abelmoschus_esculentus.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = ఓక్రా
+| label3 = ఎత్తు
+| data3 = 1m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 3/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= అసలు ఈ మొక్క ఎక్కడ పెరుగుతుందో తెలియదు 
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+హైబిస్కస్ ఎస్కులెంటస్. ఎల్. అనే మొక్క శాస్త్రీయ నామము అబెల్మోస్కస్ ఎస్కులెంటస్. ఇది మాల్వేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము ఓక్రా. ఈ మొక్క అసలు ఈ మొక్క ఎక్కడ పెరుగుతుందో తెలియదు  ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబెల్మోస్కస్ ఎస్కులెంటస్ వార్షికలా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 1 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబెల్మోస్కస్ ఎస్కులెంటస్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+పంట కోత సమయంలో చేతికి గ్లవుజులు ధరించాలి. ఎందుకంటే గింజలపై ఉండే వెంట్రుకలు తాకడం వలన కొందరికి మండుటం లేదా  చికాకు కలిగిస్తుంది. ఈ గింజలను కడగడం ద్వారా వాటిపై వెంట్రుకలు సులభంగా తొలగించవచ్చు.
+. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పండ్లు, మొగ్గలు, పువ్వులు, విత్తనాలు, ఆకులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు వేర్లు, విత్తనాలు, ఆకులు, నార మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు విత్తనాలు, ఆకులు, వేర్లు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 3/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి తేనెటీగలు  ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (ఎల్.)మోయెంచ్.((ఎల్.)మోయెంచ్. ).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబెల్మోస్కస్ ఎస్కులెంటస్]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:ఓక్రా]]
+
+			</text>
+			<sha1>2ke9ufdk35t2mxnx1mmblbkr69phqop</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబెల్మోస్కస్ మానిహోట్</title>
+		<ns>0</ns>
+		<id>500001</id>
+		<revision>
+			<id>500001</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2323">
+			
+{{taxobox
+  |name = అబెల్మోస్కస్ మానిహోట్
+  |image = Abelmoschus_manihot.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = ఐబికా
+| label3 = ఎత్తు
+| data3 = 2m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - ఆగ్నేయ ఆసియా నుండి ఉత్తర ఆస్ట్రేలియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+హైబిస్కస్ మానిహోట్. అనే మొక్క శాస్త్రీయ నామము అబెల్మోస్కస్ మానిహోట్. ఇది మాల్వేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము ఐబికా. ఈ మొక్క తూర్పు ఆసియా - ఆగ్నేయ ఆసియా నుండి ఉత్తర ఆస్ట్రేలియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబెల్మోస్కస్ మానిహోట్ శాశ్వతలా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 2 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబెల్మోస్కస్ మానిహోట్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు మొగ్గలు, ఆకులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ చెట్టు వేర్లు, బెరడు, పువ్వులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి కీటకాలు ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (ల్.)మేడిక్.((L.)Medik.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబెల్మోస్కస్ మానిహోట్]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:ఐబికా]]
+
+			</text>
+			<sha1>fy0tqy0eozlnr8ta96x090i52d076oe</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబెల్మోస్కస్ మోస్కాటస్</title>
+		<ns>0</ns>
+		<id>500002</id>
+		<revision>
+			<id>500002</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2378">
+			
+{{taxobox
+  |name = అబెల్మోస్కస్ మోస్కాటస్
+  |image = Abelmoschus_moschatus.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = మస్క్ మల్లో
+| label3 = ఎత్తు
+| data3 = 2m
+| label4 = వెడల్పు
+| data4 = 1m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 3/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= ఆగ్నేయ ఆసియా - హిమాలయాల నుండి చైనా, వియత్నాం
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+హైబిస్కస్ అబెల్మోస్కస్. అనే మొక్క శాస్త్రీయ నామము అబెల్మోస్కస్ మోస్కాటస్. ఇది మాల్వేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము మస్క్ మల్లో. ఈ మొక్క ఆగ్నేయ ఆసియా - హిమాలయాల నుండి చైనా, వియత్నాం ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబెల్మోస్కస్ మోస్కాటస్ శాశ్వతలా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 2 మీటర్ల పొడువు , 1 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబెల్మోస్కస్ మోస్కాటస్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు వేర్లు, విత్తనాలు, ఆకులు, రెమ్మలు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు బెరడు, మొక్క, నూనెలు, వేర్లు, విత్తనాలు, నార మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు విత్తనాలు, బెరడు, మొక్క కాండం ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 3/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి కీటకాలు ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత మేడిక్.(Medik.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబెల్మోస్కస్ మోస్కాటస్]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:మస్క్ మల్లో]]
+
+			</text>
+			<sha1>ob39odngw7ftaltu6a9pyk4apou93t3</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title> అబీస్ ఆల్బా</title>
+		<ns>0</ns>
+		<id>500003</id>
+		<revision>
+			<id>500003</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2256">
+			
+{{taxobox
+  |name =  అబీస్ ఆల్బా
+  |image = Abies_alba.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = సిల్వర్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 45m
+| label4 = వెడల్పు
+| data4 = 15m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 3/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= మధ్య, దక్షిణ యూరోప్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. పెక్టినాటా. ఎ. పిసియా. అనే మొక్క శాస్త్రీయ నామము  అబీస్ ఆల్బా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము సిల్వర్ ఫిర్. ఈ మొక్క మధ్య, దక్షిణ యూరోప్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 45 మీటర్ల పొడువు , 15 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+ అబీస్ ఆల్బా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు బెరడు, లోపలి బెరడు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు ఆకులు, రెసిన్లు, నూనెలు, బెరడు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు బెరడు, రెసిన్లు, చెట్టు కాండం, మొగ్గలు, ఆకులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 3/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత మిల్.(Mill.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం: అబీస్ ఆల్బా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:సిల్వర్ ఫిర్]]
+
+			</text>
+			<sha1>kmdzt9pke0cy3h13jw41iuvk480dnbd</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ అమాబిలిస్</title>
+		<ns>0</ns>
+		<id>500004</id>
+		<revision>
+			<id>500004</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2374">
+			
+{{taxobox
+  |name = అబీస్ అమాబిలిస్
+  |image = Abies_amabilis.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = రెడ్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = 5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 2/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 1/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - ఆగ్నేయ ఆసియా నుండి ఉత్తర ఆస్ట్రేలియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ అమాబిలిస్. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము రెడ్ ఫిర్. ఈ మొక్క తూర్పు ఆసియా - ఆగ్నేయ ఆసియా నుండి ఉత్తర ఆస్ట్రేలియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు , 5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ అమాబిలిస్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు బెరడు, రెమ్మలు, లోపలి బెరడు, గమ్, అపికెల్ మేరిస్టీం ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క, రెసిన్లు, బెరడు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు పిచ్, బెరడు, రెసిన్లు, మొక్క, ఆకులు, గమ్, మొక్క ద్రవం ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 1/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 2/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత డగ్లస్ల. ఎక్స్ ఫోర్బెస్.(Douglas. ex Forbes.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ అమాబిలిస్]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:రెడ్ ఫిర్]]
+
+			</text>
+			<sha1>n3p197j6bzndtldp6znuviyia1gkn3m</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ బాల్సమియా</title>
+		<ns>0</ns>
+		<id>500005</id>
+		<revision>
+			<id>500005</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2608">
+			
+{{taxobox
+  |name = అబీస్ బాల్సమియా
+  |image = Abies_balsamea.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = బాల్సమ్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 15m
+| label4 = వెడల్పు
+| data4 = 5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 5/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= ఈశాన్య ఉత్తర అమెరికా - న్యూఫౌండ్‌ల్యాండ్ నుండి వర్జీనియా వరకు, అల్బెర్టా, మిచిగాన్, ఒహియో లకు పశ్చిమాన పెరుగుతాయి  
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+పినస్ బాల్సమియా. అనే మొక్క శాస్త్రీయ నామము అబీస్ బాల్సమియా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము బాల్సమ్ ఫిర్. ఈ మొక్క ఈశాన్య ఉత్తర అమెరికా - న్యూఫౌండ్‌ల్యాండ్ నుండి వర్జీనియా వరకు, అల్బెర్టా, మిచిగాన్, ఒహియో లకు పశ్చిమాన పెరుగుతాయి  . 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 15 మీటర్ల పొడువు , 5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ బాల్సమియా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఒలియోరిసిన్ (కెనడా బాల్సమ్) పెర్ఫ్యూమ్‌గా అప్లై చేసినప్పుడు చర్మంపై వాపు, మంటను కలిగిస్తుందిని నివేదించబడింది. ఆకులను తాకడం వలన కూడా చర్మంపై వాపు, మంటను కలుగజేస్తుంది .. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు బెరడు, రెమ్మలు, లోపలి బెరడు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు రెసిన్లు, బెరడు, ఆకులు, చెక్క, కొమ్మ, వేర్లు, ఆకులు, నూనెలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు రెసిన్లు, మొక్క, మొక్క ద్రవం, మొగ్గలు, గమ్, ఆకులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 5/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, పొరలు వేయడం ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (ల్.)మిల్.((L.)Mill.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ బాల్సమియా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:బాల్సమ్ ఫిర్]]
+
+			</text>
+			<sha1>gdl3e80fl9rmi9jexyptfc6n2oc21s0</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ సెఫలోనికా</title>
+		<ns>0</ns>
+		<id>500006</id>
+		<revision>
+			<id>500006</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2325">
+			
+{{taxobox
+  |name = అబీస్ సెఫలోనికా
+  |image = Abies_cephalonica.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = గ్రీషియన్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 36m
+| label4 = వెడల్పు
+| data4 = 10m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= యూరోప్ - దక్షిణ గ్రీస్ నుండి యుగోస్లేవియా, అల్బేనియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ సెఫలోనికా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము గ్రీషియన్ ఫిర్. ఈ మొక్క యూరోప్ - దక్షిణ గ్రీస్ నుండి యుగోస్లేవియా, అల్బేనియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 36 మీటర్ల పొడువు , 10 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ సెఫలోనికా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  మద్యస్తంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత లూడన్.(Loudon.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ సెఫలోనికా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:గ్రీషియన్ ఫిర్]]
+
+			</text>
+			<sha1>3nz4r6qgvzee8y8msqaf6x2wrs00orj</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ కాంకలర్</title>
+		<ns>0</ns>
+		<id>500007</id>
+		<revision>
+			<id>500007</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2399">
+			
+{{taxobox
+  |name = అబీస్ కాంకలర్
+  |image = Abies_concolor.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = కొలరాడో ఫిర్
+| label3 = ఎత్తు
+| data3 = 45m
+| label4 = వెడల్పు
+| data4 = 8m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 2/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= నైరుతి ఉత్తర అమెరికా - ఒరెగాన్ నుండి కాలిఫోర్నియా, అరిజోనా, న్యూ మెక్సికో
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+పిసియా కాంకలర్. అనే మొక్క శాస్త్రీయ నామము అబీస్ కాంకలర్. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము కొలరాడో ఫిర్. ఈ మొక్క నైరుతి ఉత్తర అమెరికా - ఒరెగాన్ నుండి కాలిఫోర్నియా, అరిజోనా, న్యూ మెక్సికో ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 45 మీటర్ల పొడువు , 8 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ కాంకలర్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు ఎక్కువ చాలిని తట్టుకోగలవు కాబట్టి చలికాలంలో కూడా బ్రతకగలవు. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క, బెరడు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు పిచ్, చెట్టు కాండం, బెరడు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 2/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (గోర్డన్.&amp;గ్లెండ్.)లిండ్ల్. ఎక్స్ హిల్డేబ్రాండ్.((Gordon.&amp;Glend.)Lindl. ex Hildebrand.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ కాంకలర్]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:కొలరాడో ఫిర్]]
+
+			</text>
+			<sha1>q4hifrk29k5q3eplapi6dsvaa1u3u6p</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ డెలవాయి</title>
+		<ns>0</ns>
+		<id>500008</id>
+		<revision>
+			<id>500008</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2328">
+			
+{{taxobox
+  |name = అబీస్ డెలవాయి
+  |image = Abies_delavayi.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 25m
+| label4 = వెడల్పు
+| data4 = 6m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - చైనాలోని యున్నాన్ ప్రావిన్స్ నుండి ఉత్తర బర్మా వరకు, అస్సాంలోని హిమాలయాలలో పెరుగుతాయి
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ డెలవాయి. ఇది పినాసీ కుటుంబానికి చెందినది. ఈ మొక్క తూర్పు ఆసియా - చైనాలోని యున్నాన్ ప్రావిన్స్ నుండి ఉత్తర బర్మా వరకు, అస్సాంలోని హిమాలయాలలో పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 25 మీటర్ల పొడువు , 6 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ డెలవాయి ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క, బెరడు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత ఫ్రాంచ్.(Franch.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ డెలవాయి]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>mj9a3bydc26h8vruai3b1kknb9kzxbq</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ ఫర్మా</title>
+		<ns>0</ns>
+		<id>500009</id>
+		<revision>
+			<id>500009</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2271">
+			
+{{taxobox
+  |name = అబీస్ ఫర్మా
+  |image = Abies_firma.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = మోమి ఫిర్
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 1/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - దక్షిణ జపాన్ వరకు
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. బిఫిడా. ఎ. మోమి. అనే మొక్క శాస్త్రీయ నామము అబీస్ ఫర్మా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము మోమి ఫిర్. ఈ మొక్క తూర్పు ఆసియా - దక్షిణ జపాన్ వరకు ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ ఫర్మా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  మద్యస్తంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు విత్తనాలు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 1/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత సిబోల్డ్.&amp;జక్.(Siebold.&amp;Zucc.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ ఫర్మా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:మోమి ఫిర్]]
+
+			</text>
+			<sha1>r2jh801e0owzbjkhc9f1twfm706321s</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ ఫ్రేసేరీ</title>
+		<ns>0</ns>
+		<id>500010</id>
+		<revision>
+			<id>500010</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2468">
+			
+{{taxobox
+  |name = అబీస్ ఫ్రేసేరీ
+  |image = Abies_fraseri.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = షి బాల్సమ్
+| label3 = ఎత్తు
+| data3 = 15m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 3/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= ఆగ్నేయ ఉత్తర అమెరికా - వర్జీనియా, పశ్చిమ వర్జీనియా నుండి ఉత్తర కరొలినా, టేనస్సీ
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+పినస్ ఫ్రాసెరి. అనే మొక్క శాస్త్రీయ నామము అబీస్ ఫ్రేసేరీ. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము షి బాల్సమ్. ఈ మొక్క ఆగ్నేయ ఉత్తర అమెరికా - వర్జీనియా, పశ్చిమ వర్జీనియా నుండి ఉత్తర కరొలినా, టేనస్సీ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 15 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ ఫ్రేసేరీ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఒలియరేసిన్ (కెనడా బాల్సం) కొంతమందిలో చర్మసమస్యలను కలిగిస్తుంది.. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు బెరడు, రెమ్మలు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క, రెసిన్లు, బెరడు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు రెసిన్లు, బెరడు, మొక్క, ఆకులు, మొగ్గలు, గమ్, మొక్క ద్రవం ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 3/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, పొరలు వేయడం ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (పూర్ష్.)పోయర్.((Pursh.)Poir.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ ఫ్రేసేరీ]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:షి బాల్సమ్]]
+
+			</text>
+			<sha1>h60vx1a9psw0o2v49bivqyb4ccdq6wa</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ గ్రాండిస్</title>
+		<ns>0</ns>
+		<id>500011</id>
+		<revision>
+			<id>500011</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2469">
+			
+{{taxobox
+  |name = అబీస్ గ్రాండిస్
+  |image = Abies_grandis.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = గ్రాండ్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 75m
+| label4 = వెడల్పు
+| data4 = 8m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 2/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= వెస్ట్రన్ నార్త్ అమెరికా - బ్రిటిష్ కొలంబియా నుండి కాలిఫోర్నియా వరకు, మోంటానా, ఇడాహో లకు తూర్పున పెరుగుతాయి
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. ఎక్సెల్సియర్. అనే మొక్క శాస్త్రీయ నామము అబీస్ గ్రాండిస్. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము గ్రాండ్ ఫిర్. ఈ మొక్క వెస్ట్రన్ నార్త్ అమెరికా - బ్రిటిష్ కొలంబియా నుండి కాలిఫోర్నియా వరకు, మోంటానా, ఇడాహో లకు తూర్పున పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 75 మీటర్ల పొడువు , 8 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ గ్రాండిస్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు ఎక్కువ చాలిని తట్టుకోగలవు కాబట్టి చలికాలంలో కూడా బ్రతకగలవు. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు బెరడు, రెమ్మలు, లోపలి బెరడు, గమ్, అపికెల్ మేరిస్టీం ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు ఆకులు, బెరడు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు బెరడు, మొక్క కాండం, గమ్, వేర్లు, ఆకులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 2/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (డగ్లస్ల. ఎక్స్ డి.డాన్.)లిండ్ల్.((Douglas. ex D.Don.)Lindl.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ గ్రాండిస్]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:గ్రాండ్ ఫిర్]]
+
+			</text>
+			<sha1>abpcbh4ikqqd775c5cq02tj6owwed4y</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ హోమోలెపిస్</title>
+		<ns>0</ns>
+		<id>500012</id>
+		<revision>
+			<id>500012</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2231">
+			
+{{taxobox
+  |name = అబీస్ హోమోలెపిస్
+  |image = Abies_homolepis.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = నిక్కో ఫిర్
+| label3 = ఎత్తు
+| data3 = 36m
+| label4 = వెడల్పు
+| data4 = 6m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - మధ్య, దక్షిణ జపాన్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ హోమోలెపిస్. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము నిక్కో ఫిర్. ఈ మొక్క తూర్పు ఆసియా - మధ్య, దక్షిణ జపాన్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 36 మీటర్ల పొడువు , 6 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ హోమోలెపిస్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  మద్యస్తంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత సిబోల్డ్.&amp;జక్.(Siebold.&amp;Zucc.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ హోమోలెపిస్]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:నిక్కో ఫిర్]]
+
+			</text>
+			<sha1>5g0qrjxatti6n0qfv3io1uj0uxici4r</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ లాసియోకార్పా</title>
+		<ns>0</ns>
+		<id>500013</id>
+		<revision>
+			<id>500013</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2425">
+			
+{{taxobox
+  |name = అబీస్ లాసియోకార్పా
+  |image = Abies_lasiocarpa.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = సబల్పైన్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 25m
+| label4 = వెడల్పు
+| data4 = 4m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 2/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= వెస్ట్రన్ నార్త్ అమెరికా  - అలాస్కా నుండి అరిజోన, న్యూ మెక్సికో
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. సుబల్పినా. పినస్ లాసియోకార్పా. అనే మొక్క శాస్త్రీయ నామము అబీస్ లాసియోకార్పా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము సబల్పైన్ ఫిర్. ఈ మొక్క వెస్ట్రన్ నార్త్ అమెరికా  - అలాస్కా నుండి అరిజోన, న్యూ మెక్సికో ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 25 మీటర్ల పొడువు , 4 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ లాసియోకార్పా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు బెరడు, రెమ్మలు, లోపలి బెరడు, శంకువులు, గమ్, అపికెల్ మేరిస్టీం, విత్తనాలు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు ఆకులు, రెమ్మ, బెరడు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు ఆకులు, బెరడు, గమ్, రెసిన్లు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 2/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (హోక్.)నుట్.((Hook.)Nutt.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ లాసియోకార్పా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:సబల్పైన్ ఫిర్]]
+
+			</text>
+			<sha1>sb2d9hprc11vtwsh1j467cxjjxiokk7</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ మాగ్నిఫికా</title>
+		<ns>0</ns>
+		<id>500014</id>
+		<revision>
+			<id>500014</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2269">
+			
+{{taxobox
+  |name = అబీస్ మాగ్నిఫికా
+  |image = Abies_magnifica.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = కాలిఫోర్నియా రెడ్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 60m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= నైరుతి ఉత్తర అమెరికా - ఒరెగాన్ నుండి కాలిఫోర్నియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ మాగ్నిఫికా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము కాలిఫోర్నియా రెడ్ ఫిర్. ఈ మొక్క నైరుతి ఉత్తర అమెరికా - ఒరెగాన్ నుండి కాలిఫోర్నియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 60 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ మాగ్నిఫికా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  మద్యస్తంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత అ.మూర్రాయ్.(A.Murray.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ మాగ్నిఫికా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:కాలిఫోర్నియా రెడ్ ఫిర్]]
+
+			</text>
+			<sha1>a1u6gpfg54l8nsnf1ysegjeqo0anezk</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ మేరీసి </title>
+		<ns>0</ns>
+		<id>500015</id>
+		<revision>
+			<id>500015</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2190">
+			
+{{taxobox
+  |name = అబీస్ మేరీసి 
+  |image = Abies_mariesii.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 20m
+| label4 = వెడల్పు
+| data4 = 10m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - జపాన్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ మేరీసి . ఇది పినాసీ కుటుంబానికి చెందినది. ఈ మొక్క తూర్పు ఆసియా - జపాన్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 20 మీటర్ల పొడువు , 10 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ మేరీసి  ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు Nne ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత మాస్ట్.(Mast.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ మేరీసి ]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>g8gdsjfp7czcregp71bugeyrev0nh9v</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ నార్డ్‌మన్నియానా</title>
+		<ns>0</ns>
+		<id>500016</id>
+		<revision>
+			<id>500016</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2241">
+			
+{{taxobox
+  |name = అబీస్ నార్డ్‌మన్నియానా
+  |image = Abies_nordmanniana.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = కాకేసియన్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 50m
+| label4 = వెడల్పు
+| data4 = 5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= పశ్చిమాసియా - కాకసస్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ నార్డ్‌మన్నియానా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము కాకేసియన్ ఫిర్. ఈ మొక్క పశ్చిమాసియా - కాకసస్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 50 మీటర్ల పొడువు , 5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ నార్డ్‌మన్నియానా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  మద్యస్తంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (స్టీవ్.)స్పచ్.((Stev.)Spach.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ నార్డ్‌మన్నియానా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:కాకేసియన్ ఫిర్]]
+
+			</text>
+			<sha1>liidok1b7sxg37xextcls3e6xczgiq7</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ పిండ్రో</title>
+		<ns>0</ns>
+		<id>500017</id>
+		<revision>
+			<id>500017</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2413">
+			
+{{taxobox
+  |name = అబీస్ పిండ్రో
+  |image = Abies_pindrow.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = వెస్ట్ హిమాలయన్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - ఆఫ్ఘనిస్తాన్ దిగ్భాగం నుండి  నేపాల్ పశ్చిమ దిగ్భాగం వరకు ఉన్న పశ్చిమ హిమాలయాలలో పెరుగుతాయి 
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. వెబ్బియానా పిండ్రో. అనే మొక్క శాస్త్రీయ నామము అబీస్ పిండ్రో. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము వెస్ట్ హిమాలయన్ ఫిర్. ఈ మొక్క తూర్పు ఆసియా - ఆఫ్ఘనిస్తాన్ దిగ్భాగం నుండి  నేపాల్ పశ్చిమ దిగ్భాగం వరకు ఉన్న పశ్చిమ హిమాలయాలలో పెరుగుతాయి . 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ పిండ్రో ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత రోయ్ల్.(Royle.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ పిండ్రో]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:వెస్ట్ హిమాలయన్ ఫిర్]]
+
+			</text>
+			<sha1>m2iv0vuft929s9j0g0frwuhnbh159e4</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ ప్రొసెరా</title>
+		<ns>0</ns>
+		<id>500018</id>
+		<revision>
+			<id>500018</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2419">
+			
+{{taxobox
+  |name = అబీస్ ప్రొసెరా
+  |image = Abies_procera.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = నోబుల్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 60m
+| label4 = వెడల్పు
+| data4 = 5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= వెస్ట్రన్ నార్త్ అమెరికా - వాషింగ్టన్ నుండి ఉత్తర కాలిఫోర్నియా బ్రిటన్‌, స్కాట్‌లాండ్‌ ప్రాంతాలలో స్వయంగా ఈ మొక్క ను నాటుతారు
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. నోబిలిస్. పినస్ నోబిలిస్. అనే మొక్క శాస్త్రీయ నామము అబీస్ ప్రొసెరా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము నోబుల్ ఫిర్. ఈ మొక్క వెస్ట్రన్ నార్త్ అమెరికా - వాషింగ్టన్ నుండి ఉత్తర కాలిఫోర్నియా బ్రిటన్‌, స్కాట్‌లాండ్‌ ప్రాంతాలలో స్వయంగా ఈ మొక్క ను నాటుతారు ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 60 మీటర్ల పొడువు , 5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ ప్రొసెరా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  మద్యస్తంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు ఆకులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత రెహ్డర్.(Rehder.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ ప్రొసెరా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:నోబుల్ ఫిర్]]
+
+			</text>
+			<sha1>b2cze42lzjh966zqz7fwjqqez3qib4u</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ రికర్వాటా</title>
+		<ns>0</ns>
+		<id>500019</id>
+		<revision>
+			<id>500019</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2203">
+			
+{{taxobox
+  |name = అబీస్ రికర్వాటా
+  |image = Abies_recurvata.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 35m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - పశ్చిమ చైనా వరకు
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ రికర్వాటా. ఇది పినాసీ కుటుంబానికి చెందినది. ఈ మొక్క తూర్పు ఆసియా - పశ్చిమ చైనా వరకు ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 35 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ రికర్వాటా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  మద్యస్తంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత మాస్ట్.(Mast.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ రికర్వాటా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>a8dkle9m1p6ln1om72mr3y6t15ytly9</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ రెలిజియోసా</title>
+		<ns>0</ns>
+		<id>500020</id>
+		<revision>
+			<id>500020</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2281">
+			
+{{taxobox
+  |name = అబీస్ రెలిజియోసా
+  |image = Abies_religiosa.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = సెక్రెడ్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 40m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= నైరుతి ఉత్తర అమెరికా - మెక్సికో వరకు
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. హిర్టెల్లా. పినస్ రెలిజియోసా. అనే మొక్క శాస్త్రీయ నామము అబీస్ రెలిజియోసా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము సెక్రెడ్ ఫిర్. ఈ మొక్క నైరుతి ఉత్తర అమెరికా - మెక్సికో వరకు ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 40 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ రెలిజియోసా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు రెసిన్లు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (కుంత్.)స్కల్ట్డ్ల్.&amp;చామ్.((Kunth.)Schltdl.&amp;Cham.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ రెలిజియోసా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:సెక్రెడ్ ఫిర్]]
+
+			</text>
+			<sha1>s47rpfsbk4mxb7ma0nq7kr0l85ro082</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ సచాలినెన్సిస్</title>
+		<ns>0</ns>
+		<id>500021</id>
+		<revision>
+			<id>500021</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2265">
+			
+{{taxobox
+  |name = అబీస్ సచాలినెన్సిస్
+  |image = Abies_sachalinensis.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - ఉత్తర జపాన్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. వీచీ సచాలినెన్సిస్ అనే మొక్క శాస్త్రీయ నామము అబీస్ సచాలినెన్సిస్. ఇది పినాసీ కుటుంబానికి చెందినది. ఈ మొక్క తూర్పు ఆసియా - ఉత్తర జపాన్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ సచాలినెన్సిస్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (ఫ్.ష్యాపిడ్.)మాస్ట్.((F.Schmidt.)Mast.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ సచాలినెన్సిస్]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>3nhw1au65dpto2rthun6aiwlcft8xnb</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ సిబిరిక</title>
+		<ns>0</ns>
+		<id>500022</id>
+		<revision>
+			<id>500022</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2194">
+			
+{{taxobox
+  |name = అబీస్ సిబిరిక
+  |image = Abies_sibirica.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = సైబీరియన్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= ఉత్తర ఐరోపా - రష్యా నుండి తూర్పు ఆసియా- చైనా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ సిబిరిక. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము సైబీరియన్ ఫిర్. ఈ మొక్క ఉత్తర ఐరోపా - రష్యా నుండి తూర్పు ఆసియా- చైనా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ సిబిరిక ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు ఆకులు, నూనెలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు ఆకులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత లెడెబ్.(Ledeb.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ సిబిరిక]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:సైబీరియన్ ఫిర్]]
+
+			</text>
+			<sha1>88v9o3a887kxteccqyb1ewm2y9hwkaq</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ స్పెక్టబిలిస్</title>
+		<ns>0</ns>
+		<id>500023</id>
+		<revision>
+			<id>500023</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2312">
+			
+{{taxobox
+  |name = అబీస్ స్పెక్టబిలిస్
+  |image = Abies_spectabilis.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = హిమాలయన్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 2/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - ఆఫ్ఘనిస్తాన్ నుండి నేపాల్ వరకు ఉన్న హిమాలయాలలో పెరుగుతాయి 
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. వెబ్బియానా. అనే మొక్క శాస్త్రీయ నామము అబీస్ స్పెక్టబిలిస్. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము హిమాలయన్ ఫిర్. ఈ మొక్క తూర్పు ఆసియా - ఆఫ్ఘనిస్తాన్ నుండి నేపాల్ వరకు ఉన్న హిమాలయాలలో పెరుగుతాయి . 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ స్పెక్టబిలిస్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క, ఆకులు, నూనెలు, మొక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు ఆకులు, ఆకులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 2/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (డి.డాన్.)స్పచ్.((D.Don.)Spach.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ స్పెక్టబిలిస్]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:హిమాలయన్ ఫిర్]]
+
+			</text>
+			<sha1>gwhhrkge078btmugyhuu6vhhmj5d273</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ స్క్వామాటా</title>
+		<ns>0</ns>
+		<id>500024</id>
+		<revision>
+			<id>500024</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2259">
+			
+{{taxobox
+  |name = అబీస్ స్క్వామాటా
+  |image = Abies_squamata.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = ఫ్లాకీ ఫిర్
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - పశ్చిమ చైనా వరకు
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ స్క్వామాటా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము ఫ్లాకీ ఫిర్. ఈ మొక్క తూర్పు ఆసియా - పశ్చిమ చైనా వరకు ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ స్క్వామాటా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  నెమ్మదిగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత మాస్ట్.(Mast.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ స్క్వామాటా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:ఫ్లాకీ ఫిర్]]
+
+			</text>
+			<sha1>nqw4ymevwo3pva280w49ls0tvv2llwz</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ వెయిట్చి సికోకియానా</title>
+		<ns>0</ns>
+		<id>500025</id>
+		<revision>
+			<id>500025</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2269">
+			
+{{taxobox
+  |name = అబీస్ వెయిట్చి సికోకియానా
+  |image = Abies_veitchii.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = వీచ్ ఫిర్
+| label3 = ఎత్తు
+| data3 = 25m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - జపాన్ వరకు
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబీస్ వెయిట్చి సికోకియానా. ఇది పినాసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము వీచ్ ఫిర్. ఈ మొక్క తూర్పు ఆసియా - జపాన్ వరకు ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 25 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ వెయిట్చి సికోకియానా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత లిండ్ల్.(Lindl.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ వెయిట్చి సికోకియానా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:వీచ్ ఫిర్]]
+
+			</text>
+			<sha1>8b4s80c6df1w10t6y60lp6cqymwydqo</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబీస్ వెయిట్చి సికోకియానా</title>
+		<ns>0</ns>
+		<id>500026</id>
+		<revision>
+			<id>500026</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2263">
+			
+{{taxobox
+  |name = అబీస్ వెయిట్చి సికోకియానా
+  |image = Abies_veitchii_sikokiana.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = పినాసీ
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= తూర్పు ఆసియా - జపాన్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. సికోకియానా. నాకై. అనే మొక్క శాస్త్రీయ నామము అబీస్ వెయిట్చి సికోకియానా. ఇది పినాసీ కుటుంబానికి చెందినది. ఈ మొక్క తూర్పు ఆసియా - జపాన్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబీస్ వెయిట్చి సికోకియానా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి నీడ ఉన్న, పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగవు. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు చెక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి గాలి ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (నాకాయి.)కుశాక.((Nakai.)Kusaka.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబీస్ వెయిట్చి సికోకియానా]]
+
+[[వర్గం:పినాసీ]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>7yw10sryrirg3qw4epx0e7ylqe9vq0u</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబోబ్రా టెనుఫోలియా</title>
+		<ns>0</ns>
+		<id>500027</id>
+		<revision>
+			<id>500027</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2243">
+			
+{{taxobox
+  |name = అబోబ్రా టెనుఫోలియా
+  |image = Abobra_tenuifolia.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = కుకర్బిటేసీ
+| label2 = సాధారణ నామము
+| data2 = క్రాన్బెర్రీ గౌర్డ్ 
+| label3 = ఎత్తు
+| data3 = 3.5m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 1/5
+| label8 =  శ్రేణి
+| data8	= దక్షిణ అమెరికా - అర్జెంటీనా, బ్రెజిల్, ఉరుగ్వే వరకు
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబోబ్రా టెనుఫోలియా. ఇది కుకర్బిటేసీ కుటుంబానికి చెందినది. దీని సాధారణ నామము క్రాన్బెర్రీ గౌర్డ్ . ఈ మొక్క దక్షిణ అమెరికా - అర్జెంటీనా, బ్రెజిల్, ఉరుగ్వే వరకు ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబోబ్రా టెనుఫోలియా శాశ్వత తీగ జాతి లా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 3.5 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబోబ్రా టెనుఫోలియా ఇసుక మట్టి, సాధారణ  నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పండ్లు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 1/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత (హోక్.&amp;ఆర్న్.)కోజ్.((Hook.&amp;Arn.)Cogn.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబోబ్రా టెనుఫోలియా]]
+
+[[వర్గం:కుకర్బిటేసీ]]
+
+[[వర్గం:క్రాన్బెర్రీ గౌర్డ్ ]]
+
+			</text>
+			<sha1>buz7i5vlmuoothkbljhaoc08qh0am4e</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబ్రోనియా ఫ్రాగ్రన్స్ </title>
+		<ns>0</ns>
+		<id>500028</id>
+		<revision>
+			<id>500028</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2349">
+			
+{{taxobox
+  |name = అబ్రోనియా ఫ్రాగ్రన్స్ 
+  |image = Abronia_fragrans.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = నైక్టజినేసి
+| label2 = సాధారణ నామము
+| data2 = స్నోబాల్ సాండ్ వెర్బెనా
+| label3 = ఎత్తు
+| data3 = 0.600000024m
+| label4 = వెడల్పు
+| data4 = 0.800000012m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= నైరుతి ఉత్తర అమెరికా - దక్షిణ డకోటా నుండి నెబ్రాస్కా వరకు, కొలరాడో, టెక్సాస్ , మెక్సికో వరకు
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. స్పెసియోసా. అనే మొక్క శాస్త్రీయ నామము అబ్రోనియా ఫ్రాగ్రన్స్ . ఇది నైక్టజినేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము స్నోబాల్ సాండ్ వెర్బెనా. ఈ మొక్క నైరుతి ఉత్తర అమెరికా - దక్షిణ డకోటా నుండి నెబ్రాస్కా వరకు, కొలరాడో, టెక్సాస్ , మెక్సికో వరకు ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబ్రోనియా ఫ్రాగ్రన్స్  శాశ్వతలా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 0.600000024 మీటర్ల పొడువు , 0.800000012 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబ్రోనియా ఫ్రాగ్రన్స్  ఇసుక మట్టి, సాధారణ  నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు వేర్లు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ చెట్టు పువ్వులు, మొక్క, వేర్లు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల వేర్లు, విత్తనాలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత నుట్.(Nutt.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబ్రోనియా ఫ్రాగ్రన్స్ ]]
+
+[[వర్గం:నైక్టజినేసి]]
+
+[[వర్గం:స్నోబాల్ సాండ్ వెర్బెనా]]
+
+			</text>
+			<sha1>oji5fth4j0tgm6ldzvtxu7iayfxmbk6</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబ్రోనియా లాటిఫోలియా</title>
+		<ns>0</ns>
+		<id>500029</id>
+		<revision>
+			<id>500029</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2279">
+			
+{{taxobox
+  |name = అబ్రోనియా లాటిఫోలియా
+  |image = Abronia_latifolia.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = నైక్టజినేసి
+| label2 = సాధారణ నామము
+| data2 = సాండ్ వెర్బెనా
+| label3 = ఎత్తు
+| data3 = 0.100000001m
+| label4 = వెడల్పు
+| data4 = 0.5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= నైరుతి ఉత్తర అమెరికా - కాలిఫోర్నియా నుండి వాంకోవర్ ద్వీపం
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. అరేనారియా. అనే మొక్క శాస్త్రీయ నామము అబ్రోనియా లాటిఫోలియా. ఇది నైక్టజినేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము సాండ్ వెర్బెనా. ఈ మొక్క నైరుతి ఉత్తర అమెరికా - కాలిఫోర్నియా నుండి వాంకోవర్ ద్వీపం ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబ్రోనియా లాటిఫోలియా శాశ్వతలా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 0.100000001 మీటర్ల పొడువు , 0.5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబ్రోనియా లాటిఫోలియా ఇసుక మట్టి నేలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు వేర్లు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల వేర్లు, విత్తనాలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత ఎస్చ్.(Esch.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబ్రోనియా లాటిఫోలియా]]
+
+[[వర్గం:నైక్టజినేసి]]
+
+[[వర్గం:సాండ్ వెర్బెనా]]
+
+			</text>
+			<sha1>9w0coo84coq91pysx5go3ecg8nxmavl</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబ్రోనియా టర్బినాటా</title>
+		<ns>0</ns>
+		<id>500030</id>
+		<revision>
+			<id>500030</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2245">
+			
+{{taxobox
+  |name = అబ్రోనియా టర్బినాటా
+  |image = Abronia_turbinata.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = నైక్టజినేసి
+| label2 = సాధారణ నామము
+| data2 = ట్రాన్స్మోంటేన్ సాండ్ వెర్బెనా
+| label3 = ఎత్తు
+| data3 = 0.100000001m
+| label4 = వెడల్పు
+| data4 = 0.5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= నైరుతి ఉత్తర అమెరికా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబ్రోనియా టర్బినాటా. ఇది నైక్టజినేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము ట్రాన్స్మోంటేన్ సాండ్ వెర్బెనా. ఈ మొక్క నైరుతి ఉత్తర అమెరికా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబ్రోనియా టర్బినాటా శాశ్వతలా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 0.100000001 మీటర్ల పొడువు , 0.5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబ్రోనియా టర్బినాటా ఇసుక మట్టి నేలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ చెట్టు ఆకులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత టోర్ర్. ఎక్స్ స్.వాట్సన్.(Torr. ex S.Watson.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబ్రోనియా టర్బినాటా]]
+
+[[వర్గం:నైక్టజినేసి]]
+
+[[వర్గం:ట్రాన్స్మోంటేన్ సాండ్ వెర్బెనా]]
+
+			</text>
+			<sha1>dxyoiup79isjio5r67cogypz2abq92s</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబ్రోనియా విల్లోసా</title>
+		<ns>0</ns>
+		<id>500031</id>
+		<revision>
+			<id>500031</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2274">
+			
+{{taxobox
+  |name = అబ్రోనియా విల్లోసా
+  |image = Abronia_villosa.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = నైక్టజినేసి
+| label2 = సాధారణ నామము
+| data2 = డెసర్ట్ సాండ్ వెర్బెనా
+| label3 = ఎత్తు
+| data3 = 0.100000001m
+| label4 = వెడల్పు
+| data4 = 0.5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 0/5
+| label8 =  శ్రేణి
+| data8	= నైరుతి ఉత్తర అమెరికా - నెవాడా, అరిజోనా నుండి కాలిఫోర్నియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబ్రోనియా విల్లోసా. ఇది నైక్టజినేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము డెసర్ట్ సాండ్ వెర్బెనా. ఈ మొక్క నైరుతి ఉత్తర అమెరికా - నెవాడా, అరిజోనా నుండి కాలిఫోర్నియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబ్రోనియా విల్లోసా వార్షికలా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 0.100000001 మీటర్ల పొడువు , 0.5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబ్రోనియా విల్లోసా ఇసుక మట్టి నేలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ మొక్కల ఆహారయోగ్యమైన ఉపయోగాలు తెలియవు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ చెట్టు మొక్క, వేర్లు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 0/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత స్.వాట్సన్.(S.Watson.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబ్రోనియా విల్లోసా]]
+
+[[వర్గం:నైక్టజినేసి]]
+
+[[వర్గం:డెసర్ట్ సాండ్ వెర్బెనా]]
+
+			</text>
+			<sha1>pr6ld3706tm0msn8i8ib02ezpnx5jw1</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ స్పీసీస్ </title>
+		<ns>0</ns>
+		<id>500032</id>
+		<revision>
+			<id>500032</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2335">
+			
+{{taxobox
+  |name = అబుటిలాన్ స్పీసీస్ 
+  |image = Abutilon__species.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 3m
+| label4 = వెడల్పు
+| data4 = 2m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= అనేక జాతులను కలిగి ఉన్న ఉద్యానవనపు సంకరజాతి మొక్కలలో, ముఖ్యంగా ఎ మెగాపోటానికం, ఎ పిక్టమ్ మొక్కలు కూడా ఉన్నాయి
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబుటిలాన్ స్పీసీస్ . ఇది మాల్వేసి కుటుంబానికి చెందినది. ఈ మొక్క అనేక జాతులను కలిగి ఉన్న ఉద్యానవనపు సంకరజాతి మొక్కలలో, ముఖ్యంగా ఎ మెగాపోటానికం, ఎ పిక్టమ్ మొక్కలు కూడా ఉన్నాయి ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ స్పీసీస్  పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 3 మీటర్ల పొడువు , 2 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ స్పీసీస్  ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, రెమ్మలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత .(.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ స్పీసీస్ ]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>1puocng3r91umtxqejacw7ov1j13aod</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ మెగాపోటామికమ్</title>
+		<ns>0</ns>
+		<id>500033</id>
+		<revision>
+			<id>500033</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2352">
+			
+{{taxobox
+  |name = అబుటిలాన్ మెగాపోటామికమ్
+  |image = Abutilon_megapotamicum.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = ట్రెయిలింగ్ అబుటిలాన్ 
+| label3 = ఎత్తు
+| data3 = 2m
+| label4 = వెడల్పు
+| data4 = 2m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= దక్షిణ అమెరికా - బ్రెజిల్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. వెక్సిలారియం. అనే మొక్క శాస్త్రీయ నామము అబుటిలాన్ మెగాపోటామికమ్. ఇది మాల్వేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము ట్రెయిలింగ్ అబుటిలాన్ . ఈ మొక్క దక్షిణ అమెరికా - బ్రెజిల్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ మెగాపోటామికమ్ పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 2 మీటర్ల పొడువు , 2 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ మెగాపోటామికమ్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, రెమ్మలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత (స్ప్రెంగ్.)అ.స్ట్.-హిల్.&amp;నౌదిన్.((Spreng.)A.St.-Hil.&amp;Naudin.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ మెగాపోటామికమ్]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:ట్రెయిలింగ్ అబుటిలాన్ ]]
+
+			</text>
+			<sha1>dw6o0u3twm2xzm8auidw0o22cmrygje</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ ఒచ్సేని </title>
+		<ns>0</ns>
+		<id>500034</id>
+		<revision>
+			<id>500034</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2225">
+			
+{{taxobox
+  |name = అబుటిలాన్ ఒచ్సేని 
+  |image = Abutilon_ochsenii.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 4m
+| label4 = వెడల్పు
+| data4 = 3m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= దక్షిణ అమెరికా - చిలీ
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+కొరినాబుటిలాన్ ఒచ్సేని. అనోడ ఒచ్సేని. ఫిల్. అనే మొక్క శాస్త్రీయ నామము అబుటిలాన్ ఒచ్సేని . ఇది మాల్వేసి కుటుంబానికి చెందినది. ఈ మొక్క దక్షిణ అమెరికా - చిలీ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ ఒచ్సేని  పొదలా ఎదిగే మొక్క. ఇది ఆకురాల్చే మొక్క. ఈ మొక్క దాదాపుగా 4 మీటర్ల పొడువు , 3 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ ఒచ్సేని  ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, రెమ్మలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత (ఫిల్.)రీచే.((Phil.)Reiche.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ ఒచ్సేని ]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>tg6b04e1hrt5ekvgikms2jfrsww78dx</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ పిక్టమ్ </title>
+		<ns>0</ns>
+		<id>500035</id>
+		<revision>
+			<id>500035</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2401">
+			
+{{taxobox
+  |name = అబుటిలాన్ పిక్టమ్ 
+  |image = Abutilon_pictum.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = అబుటిలాన్
+| label3 = ఎత్తు
+| data3 = 5m
+| label4 = వెడల్పు
+| data4 = 2m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= దక్షిణ అమెరికా - బ్రెజిల్, అర్జెంటీనా, పరాగ్వే , ఉరుగ్వే వరకు,
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబుటిలాన్ పిక్టమ్ . ఇది మాల్వేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము అబుటిలాన్. ఈ మొక్క దక్షిణ అమెరికా - బ్రెజిల్, అర్జెంటీనా, పరాగ్వే , ఉరుగ్వే వరకు, ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ పిక్టమ్  పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 5 మీటర్ల పొడువు , 2 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ పిక్టమ్  ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. ఈ మొక్కలు ఎక్కువ చలి తట్టుకోలేవు కాబట్టి చలికాలంలో బ్రతకలేవు. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, రెమ్మలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత (గిల్లీస్. ఎక్స్ హోక్.&amp;ఆర్న్.)వాల్ప్.((Gillies. ex Hook.&amp;Arn.)Walp.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ పిక్టమ్ ]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:అబుటిలాన్]]
+
+			</text>
+			<sha1>eb5344e2ppvfzxobviuj16197zxe515</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ పర్పురాసెన్స్</title>
+		<ns>0</ns>
+		<id>500036</id>
+		<revision>
+			<id>500036</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2316">
+			
+{{taxobox
+  |name = అబుటిలాన్ పర్పురాసెన్స్
+  |image = Abutilon_purpurascens.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 2.400000095m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= దక్షిణ అమెరికా - బ్రెజిల్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. ఎస్కులెంటమ్. ఎ.సెయింట్ హిల్. అనే మొక్క శాస్త్రీయ నామము అబుటిలాన్ పర్పురాసెన్స్. ఇది మాల్వేసి కుటుంబానికి చెందినది. ఈ మొక్క దక్షిణ అమెరికా - బ్రెజిల్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ పర్పురాసెన్స్ పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 2.400000095 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ పర్పురాసెన్స్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల రెమ్మలు, అతిగా పండిన చెక్క ముక్కలు , వేర్లు, విత్తనాలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి కీటకాలు ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత (లింక్.)స్కూం.((Link.)Schum.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ పర్పురాసెన్స్]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>f2pg7diwcgyr1v7sjwszlztpkfwmyns</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ థియోఫ్రాస్టి</title>
+		<ns>0</ns>
+		<id>500037</id>
+		<revision>
+			<id>500037</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2371">
+			
+{{taxobox
+  |name = అబుటిలాన్ థియోఫ్రాస్టి
+  |image = Abutilon_theophrasti.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = చైనా జూట్
+| label3 = ఎత్తు
+| data3 = 1m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 2/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= ఆసియా - ఉష్ణమండల ప్రాంతాలలో పెరుగుతాయి ఐరోపాకు ఆగ్నేయన, మధ్యధరా ప్రాంతంలో సహజీకరించబడిన మొక్క
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. అవిసెన్నే. గార్ట్న్. అనే మొక్క శాస్త్రీయ నామము అబుటిలాన్ థియోఫ్రాస్టి. ఇది మాల్వేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము చైనా జూట్. ఈ మొక్క ఆసియా - ఉష్ణమండల ప్రాంతాలలో పెరుగుతాయి ఐరోపాకు ఆగ్నేయన, మధ్యధరా ప్రాంతంలో సహజీకరించబడిన మొక్క. 
+==వివరణ(Description)==
+అబుటిలాన్ థియోఫ్రాస్టి వార్షికలా ఎదిగే మొక్క. ఈ మొక్క దాదాపుగా 1 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ థియోఫ్రాస్టి ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పండ్లు, విత్తనాలు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు నూనెలు, విత్తనాలు, ఆకులు, నార మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు వేర్లు, విత్తనాలు, ఆకులు, బెరడు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 2/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత మేడిక్.(Medik.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ థియోఫ్రాస్టి]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:చైనా జూట్]]
+
+			</text>
+			<sha1>mqd4gnsfb90vkkk3jf3dgmy4k5cowbh</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ విటిఫోలియం</title>
+		<ns>0</ns>
+		<id>500038</id>
+		<revision>
+			<id>500038</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2252">
+			
+{{taxobox
+  |name = అబుటిలాన్ విటిఫోలియం
+  |image = Abutilon_vitifolium.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 8m
+| label4 = వెడల్పు
+| data4 = 5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= దక్షిణ అమెరికా - చిలీ
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+సిదా విటిఫోలియా. కావ్. కొరినాబుటిలాన్ విటిఫోలియం. అనే మొక్క శాస్త్రీయ నామము అబుటిలాన్ విటిఫోలియం. ఇది మాల్వేసి కుటుంబానికి చెందినది. ఈ మొక్క దక్షిణ అమెరికా - చిలీ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ విటిఫోలియం పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 8 మీటర్ల పొడువు , 5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ విటిఫోలియం ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, రెమ్మలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత (కావ్.)క్.ప్రెస్ల్.((Cav.)C.Presl.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ విటిఫోలియం]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>9e7e9jwpc64i4268n2sntah8efoca4n</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ ఎక్స్ హైబ్రిడమ్</title>
+		<ns>0</ns>
+		<id>500039</id>
+		<revision>
+			<id>500039</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2374">
+			
+{{taxobox
+  |name = అబుటిలాన్ ఎక్స్ హైబ్రిడమ్
+  |image = Abutilon_x_hybridum.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = చైనీస్ లాంటెర్న్ 
+| label3 = ఎత్తు
+| data3 = 3m
+| label4 = వెడల్పు
+| data4 = 3m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= ఎ డార్విని ఎక్స్ ఎ పిక్టమ్ ఉద్యానవనపు సంకరజాతి మొక్క
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబుటిలాన్ ఎక్స్ హైబ్రిడమ్. ఇది మాల్వేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము చైనీస్ లాంటెర్న్ . ఈ మొక్క ఎ డార్విని ఎక్స్ ఎ పిక్టమ్ ఉద్యానవనపు సంకరజాతి మొక్క ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ ఎక్స్ హైబ్రిడమ్ పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 3 మీటర్ల పొడువు , 3 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ ఎక్స్ హైబ్రిడమ్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, రెమ్మలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత హార్ట్. ఎక్స్ సిబర్ట్.&amp;వోస్.(hort. ex Siebert.&amp;Voss.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ ఎక్స్ హైబ్రిడమ్]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:చైనీస్ లాంటెర్న్ ]]
+
+			</text>
+			<sha1>6wmqru4z6jrqot3g0rcmcq8drucnsg0</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ ఎక్స్ మిల్లరీ</title>
+		<ns>0</ns>
+		<id>500040</id>
+		<revision>
+			<id>500040</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2360">
+			
+{{taxobox
+  |name = అబుటిలాన్ ఎక్స్ మిల్లరీ
+  |image = Abutilon_x_milleri.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = ట్రెయిలింగ్ అబుటిలాన్ 
+| label3 = ఎత్తు
+| data3 = 3m
+| label4 = వెడల్పు
+| data4 = 2m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= ఎ మెగాపోటానికం, బహుశా ఎ పిక్టమ్‌తో కూడిన ఉద్యానవనపు సంకరజాతి మొక్క
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబుటిలాన్ ఎక్స్ మిల్లరీ. ఇది మాల్వేసి కుటుంబానికి చెందినది. దీని సాధారణ నామము ట్రెయిలింగ్ అబుటిలాన్ . ఈ మొక్క ఎ మెగాపోటానికం, బహుశా ఎ పిక్టమ్‌తో కూడిన ఉద్యానవనపు సంకరజాతి మొక్క ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ ఎక్స్ మిల్లరీ పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 3 మీటర్ల పొడువు , 2 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ ఎక్స్ మిల్లరీ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, రెమ్మలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత హార్ట్.(hort.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ ఎక్స్ మిల్లరీ]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:ట్రెయిలింగ్ అబుటిలాన్ ]]
+
+			</text>
+			<sha1>2w34pkd3z812p9ay0ouns4b94m1nbhg</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అబుటిలాన్ ఎక్స్ సన్టెన్స్ </title>
+		<ns>0</ns>
+		<id>500041</id>
+		<revision>
+			<id>500041</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2294">
+			
+{{taxobox
+  |name = అబుటిలాన్ ఎక్స్ సన్టెన్స్ 
+  |image = Abutilon_x_suntense.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = మాల్వేసి
+| label2 = సాధారణ నామము
+| data2 = NA
+| label3 = ఎత్తు
+| data3 = 8m
+| label4 = వెడల్పు
+| data4 = 5m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	=  ఎ ఓచ్సేని ఎక్స్ ఎ విటిఫోలియం ఉద్యానవనపు సంకరజాతి మొక్క
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అబుటిలాన్ ఎక్స్ సన్టెన్స్ . ఇది మాల్వేసి కుటుంబానికి చెందినది. ఈ మొక్క  ఎ ఓచ్సేని ఎక్స్ ఎ విటిఫోలియం ఉద్యానవనపు సంకరజాతి మొక్క ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అబుటిలాన్ ఎక్స్ సన్టెన్స్  పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 8 మీటర్ల పొడువు , 5 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అబుటిలాన్ ఎక్స్ సన్టెన్స్  ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు తేమగా ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కల వేర్లు బుడిపెలలో నత్రజని స్థాపన చేసే బాక్టీరియాను కలిగి ఉంటాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ మొక్కల ఉపయోగాలు తెలియవు.  ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, రెమ్మలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత క్.బ్రిక్కెల్.(C.Brickell.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అబుటిలాన్ ఎక్స్ సన్టెన్స్ ]]
+
+[[వర్గం:మాల్వేసి]]
+
+[[వర్గం:NONE]]
+
+			</text>
+			<sha1>d0fv9ebmhyc4iwbfd08xry0auyyo7x8</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అకేషియా అనూరా  </title>
+		<ns>0</ns>
+		<id>500042</id>
+		<revision>
+			<id>500042</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2300">
+			
+{{taxobox
+  |name = అకేషియా అనూరా  
+  |image = Acacia_aneura.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = లెగ్యుమినోసే
+| label2 = సాధారణ నామము
+| data2 = ముల్గా అకాసియా
+| label3 = ఎత్తు
+| data3 = 15m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, క్వీన్స్‌లాండ్, దక్షిణ ఆస్ట్రేలియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అకేషియా అనూరా  . ఇది లెగ్యుమినోసే కుటుంబానికి చెందినది. దీని సాధారణ నామము ముల్గా అకాసియా. ఈ మొక్క ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, క్వీన్స్‌లాండ్, దక్షిణ ఆస్ట్రేలియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 15 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అకేషియా అనూరా   ఇసుక మట్టి, సాధారణ  నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు బెరడు, పువ్వులు, గమ్, విత్తనాలు, ఆకులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు రెమ్మ, మొక్క, వేర్లు, విత్తనాలు, నూనెలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతి కీటకాలు ద్వారా వ్యాప్తి చెంది ఎదుగుతాయి. 
+==Author==
+
+ఈ డేటా రచయిత ఫ్.మ్యూల్. ఎక్స్ బెంత్.(F.Muell. ex Benth.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అకేషియా అనూరా  ]]
+
+[[వర్గం:లెగ్యుమినోసే]]
+
+[[వర్గం:ముల్గా అకాసియా]]
+
+			</text>
+			<sha1>dhgtd0zi66ddnxtgbzohjn9kzgvub2h</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అకేషియా కొరియేషియ</title>
+		<ns>0</ns>
+		<id>500043</id>
+		<revision>
+			<id>500043</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2136">
+			
+{{taxobox
+  |name = అకేషియా కొరియేషియ
+  |image = Acacia_coriacea.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = లెగ్యుమినోసే
+| label2 = సాధారణ నామము
+| data2 = వైరీ వాటిల్
+| label3 = ఎత్తు
+| data3 = 5m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= ఆస్ట్రేలియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అకేషియా కొరియేషియ. ఇది లెగ్యుమినోసే కుటుంబానికి చెందినది. దీని సాధారణ నామము వైరీ వాటిల్. ఈ మొక్క ఆస్ట్రేలియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 5 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అకేషియా కొరియేషియ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి పాక్షిక నీడ, ఆరుబయట  ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు విత్తనాలు, గమ్ ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు మొక్క, చెక్క, వేర్లు, విత్తనాలు, నూనెలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత డిక్.(DC.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అకేషియా కొరియేషియ]]
+
+[[వర్గం:లెగ్యుమినోసే]]
+
+[[వర్గం:వైరీ వాటిల్]]
+
+			</text>
+			<sha1>80xmlmj83lyp0q272ehy8s49gtu9tt7</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అకేషియా కల్ట్రిఫార్మిస్</title>
+		<ns>0</ns>
+		<id>500044</id>
+		<revision>
+			<id>500044</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2273">
+			
+{{taxobox
+  |name = అకేషియా కల్ట్రిఫార్మిస్
+  |image = Acacia_cultriformis.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = లెగ్యుమినోసే
+| label2 = సాధారణ నామము
+| data2 = నైఫ్-లీఫ్ వాటిల్
+| label3 = ఎత్తు
+| data3 = 4m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, క్వీన్స్లాండ్
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అకేషియా కల్ట్రిఫార్మిస్. ఇది లెగ్యుమినోసే కుటుంబానికి చెందినది. దీని సాధారణ నామము నైఫ్-లీఫ్ వాటిల్. ఈ మొక్క ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, క్వీన్స్లాండ్ ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అకేషియా కల్ట్రిఫార్మిస్ పొదలా ఎదిగే మొక్క. ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 4 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అకేషియా కల్ట్రిఫార్మిస్ ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు విత్తనాలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత అ.చున్న్. ఎక్స్ గి.డాన్.(A.Cunn. ex G.Don.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అకేషియా కల్ట్రిఫార్మిస్]]
+
+[[వర్గం:లెగ్యుమినోసే]]
+
+[[వర్గం:నైఫ్-లీఫ్ వాటిల్]]
+
+			</text>
+			<sha1>c0w9rxyvkgnswgqeml58smrtyerd7nb</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అకేషియా డీల్‌బాట</title>
+		<ns>0</ns>
+		<id>500045</id>
+		<revision>
+			<id>500045</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2256">
+			
+{{taxobox
+  |name = అకేషియా డీల్‌బాట
+  |image = Acacia_dealbata.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = లెగ్యుమినోసే
+| label2 = సాధారణ నామము
+| data2 = మిమోసా
+| label3 = ఎత్తు
+| data3 = 25m
+| label4 = వెడల్పు
+| data4 = 8m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= ఆస్ట్రేలియా - విక్టోరియా, న్యూ సౌత్ వేల్స్, టాస్మానియా ప్రాంతాలలో పెరుగుతాయి దక్షిణ ఐరోపాలో ఈ మొక్క సహజీకరించబడినది
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+ఎ. డీకరెన్స్ డీల్‌బాటా. అనే మొక్క శాస్త్రీయ నామము అకేషియా డీల్‌బాట. ఇది లెగ్యుమినోసే కుటుంబానికి చెందినది. దీని సాధారణ నామము మిమోసా. ఈ మొక్క ఆస్ట్రేలియా - విక్టోరియా, న్యూ సౌత్ వేల్స్, టాస్మానియా ప్రాంతాలలో పెరుగుతాయి దక్షిణ ఐరోపాలో ఈ మొక్క సహజీకరించబడినది. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 25 మీటర్ల పొడువు , 8 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అకేషియా డీల్‌బాట ఇసుక మట్టి, సాధారణ  నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు, గమ్ ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు బెరడు, మొక్క, వేర్లు, విత్తనాలు, నూనెలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత లింక్.(Link.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అకేషియా డీల్‌బాట]]
+
+[[వర్గం:లెగ్యుమినోసే]]
+
+[[వర్గం:మిమోసా]]
+
+			</text>
+			<sha1>g4y7v520v6ux6iw3e8yqsjqylt99jrv</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అకేషియా డికర్రెన్స్</title>
+		<ns>0</ns>
+		<id>500046</id>
+		<revision>
+			<id>500046</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2271">
+			
+{{taxobox
+  |name = అకేషియా డికర్రెన్స్
+  |image = Acacia_decurrens.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = లెగ్యుమినోసే
+| label2 = సాధారణ నామము
+| data2 = గ్రీన్ వాటిల్
+| label3 = ఎత్తు
+| data3 = 12m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, టాస్మానియా, విక్టోరియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+మిమోసా డికరెన్స్. అనే మొక్క శాస్త్రీయ నామము అకేషియా డికర్రెన్స్. ఇది లెగ్యుమినోసే కుటుంబానికి చెందినది. దీని సాధారణ నామము గ్రీన్ వాటిల్. ఈ మొక్క ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, టాస్మానియా, విక్టోరియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 12 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అకేషియా డికర్రెన్స్ ఇసుక మట్టి, సాధారణ  నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు, గమ్ ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు బెరడు, మొక్క, వేర్లు, విత్తనాలు, నూనెలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు బెరడు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. ఇది సుగంధమైన మొక్క. ఈ మొక్కలు సువాసనగా ఉంటాయి కాబట్టి సెంట్లలో వాడవచ్చు. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత (జ్.క్.వెండ్ల్.)విల్డ్.((J.C.Wendl.)Willd.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అకేషియా డికర్రెన్స్]]
+
+[[వర్గం:లెగ్యుమినోసే]]
+
+[[వర్గం:గ్రీన్ వాటిల్]]
+
+			</text>
+			<sha1>fob69quv3l9g3h81uxsym6aajjjf1uz</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అకేషియా ఫర్నేసియానా</title>
+		<ns>0</ns>
+		<id>500047</id>
+		<revision>
+			<id>500047</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2330">
+			
+{{taxobox
+  |name = అకేషియా ఫర్నేసియానా
+  |image = Acacia_farnesiana.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = లెగ్యుమినోసే
+| label2 = సాధారణ నామము
+| data2 = స్వీట్ అకాసియా
+| label3 = ఎత్తు
+| data3 = 9m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 2/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= అసలు ఈ మొక్క పరిధి తెలియదు, కానీ ఉష్ణమండల అమెరికాలో పెరుగుతుంది
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అకేషియా ఫర్నేసియానా. ఇది లెగ్యుమినోసే కుటుంబానికి చెందినది. దీని సాధారణ నామము స్వీట్ అకాసియా. ఈ మొక్క అసలు ఈ మొక్క పరిధి తెలియదు, కానీ ఉష్ణమండల అమెరికాలో పెరుగుతుంది ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+అకేషియా ఫర్నేసియానా పొదలా ఎదిగే మొక్క. ఇది ఆకురాల్చే మొక్క. ఈ మొక్క దాదాపుగా 9 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అకేషియా ఫర్నేసియానా ఇసుక మట్టి, సాధారణ, బంకమట్టి నేలలలో  పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+పేరులేని ఆల్కలాయిడ్‌ని కలిగి ఉన్న విత్తనాలను బ్రెజిల్‌లో క్రూరమైన కుక్కలను చంపడానికి ఉపయోగిస్తారు.. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు గమ్ ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు బెరడు, మొక్క, చెక్క, కొమ్మ, విత్తనాలు, మొక్క రసం, నూనెలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ చెట్టు బెరడు, వేర్లు, చెట్టు కాండం, పువ్వులు, గమ్, కాయలు, కాయలు, ఆకులు ఔషధ పదార్థాలు . ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 2/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత (ల్.)విల్డ్.((L.)Willd.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అకేషియా ఫర్నేసియానా]]
+
+[[వర్గం:లెగ్యుమినోసే]]
+
+[[వర్గం:స్వీట్ అకాసియా]]
+
+			</text>
+			<sha1>ryvnyjly3uqdsfrb56z03j18ej9bjrm</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అకేషియా లాంగిఫోలియా</title>
+		<ns>0</ns>
+		<id>500048</id>
+		<revision>
+			<id>500048</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2317">
+			
+{{taxobox
+  |name = అకేషియా లాంగిఫోలియా
+  |image = Acacia_longifolia.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = లెగ్యుమినోసే
+| label2 = సాధారణ నామము
+| data2 = సిడ్నీ గోల్డెన్ వాటిల్
+| label3 = ఎత్తు
+| data3 = 9m
+| label4 = వెడల్పు
+| data4 = 6m
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 0/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 3/5
+| label8 =  శ్రేణి
+| data8	= ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, క్వీన్స్‌లాండ్, దక్షిణ ఆస్ట్రేలియా, టాస్మానియా, విక్టోరియా
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+మిమోసా లాంగిఫోలియా. అనే మొక్క శాస్త్రీయ నామము అకేషియా లాంగిఫోలియా. ఇది లెగ్యుమినోసే కుటుంబానికి చెందినది. దీని సాధారణ నామము సిడ్నీ గోల్డెన్ వాటిల్. ఈ మొక్క ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, క్వీన్స్‌లాండ్, దక్షిణ ఆస్ట్రేలియా, టాస్మానియా, విక్టోరియా ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 9 మీటర్ల పొడువు , 6 మీటర్ల వెడల్పు  వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అకేషియా లాంగిఫోలియా ఇసుక మట్టి నేలలో  మద్యస్తంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు, విత్తనాలు, గమ్ ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు వేర్లు, విత్తనాలు, నూనెలు, మొక్క మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 3/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 0/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత (ఆండ్రెవ్స్.)విల్డ్.((Andrews.)Willd.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అకేషియా లాంగిఫోలియా]]
+
+[[వర్గం:లెగ్యుమినోసే]]
+
+[[వర్గం:సిడ్నీ గోల్డెన్ వాటిల్]]
+
+			</text>
+			<sha1>lgmpn2admyr2onnmum95skfam1bwfsv</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>అకేషియా మెలనాక్సిలాన్</title>
+		<ns>0</ns>
+		<id>500049</id>
+		<revision>
+			<id>500049</id>
+			<timestamp>2022-07-13T09-07-05Z</timestamp>
+			<contributor>
+				<username>Plantsindicwiki</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2248">
+			
+{{taxobox
+  |name = అకేషియా మెలనాక్సిలాన్
+  |image = Acacia_melanoxylon.jpg
+  }}
+{{Infobox
+| bodystyle = width:25em;text-align:center;
+| abovestyle = background-color:#cfc;
+| headerstyle = background-color:#ccf;text-align:center;
+| labelstyle = background-color:#ddf; width:20%;text-align:left;
+| label1 = కుటుంబం
+| data1 = లెగ్యుమినోసే
+| label2 = సాధారణ నామము
+| data2 = బ్లాక్ వుడ్ 
+| label3 = ఎత్తు
+| data3 = 30m
+| label4 = వెడల్పు
+| data4 = NAm
+| label5 = ఆయుష్య యొగసూచి
+| data5 = 1/5
+| label6 = ఆహార యోగ్యసూచి
+| data6	= 2/5
+| label8 =  శ్రేణి
+| data8	= ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, టాస్మానియా, విక్టోరియా నైరుతి ఐరోపాలో స్థానికంగా సహజీకరించబడిన మొక్క
+| label9 = రాజ్యం(Regnum)
+| data9 = ప్లాంటే
+	}}
+దీని శాస్త్రీయ నామము అకేషియా మెలనాక్సిలాన్. ఇది లెగ్యుమినోసే కుటుంబానికి చెందినది. దీని సాధారణ నామము బ్లాక్ వుడ్ . ఈ మొక్క ఆస్ట్రేలియా - న్యూ సౌత్ వేల్స్, టాస్మానియా, విక్టోరియా నైరుతి ఐరోపాలో స్థానికంగా సహజీకరించబడిన మొక్క ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి. 
+==వివరణ(Description)==
+ఇది సతత హరితమైన మొక్క. ఈ మొక్క దాదాపుగా 30 మీటర్ల పొడువు వరకు పెరుగును. 
+==వర్గీకరణ(Taxonomy)==
+
+అకేషియా మెలనాక్సిలాన్ ఇసుక మట్టి, సాధారణ  నేలలలో  వేగంగా పెరిగే మొక్క. ఈ మొక్క పెరుగుదలకు పొడి, తేమగా  ఉన్న భూములు అనుకూలం. ఇవి ఆరుబయట ప్రదేశాల్లో ఎక్కువగా పెరుగుతాయి. ఈ మొక్కలు బురుద నేలల్లో పెరగుతాయి. 
+==ప్రమాద/ విషస్వభావాలు(Known hazards)==
+ఇప్పటి వరకు ఈ మొక్క ప్రమాద/ విషస్వభావాలు తెలియవు. 
+==ఆహారయోగ్యమైన ఉపయోగాలు(Edible_uses)==
+ఈ చెట్టు పువ్వులు ఆహారంగా వినియోగించవచ్చు. 
+==ఉపయోగాలు(Uses_notes)==
+ఈ చెట్టు బెరడు, మొక్క, వేర్లు, విత్తనాలు, నూనెలు మన అవసరాలకు ఉపయోగించవచ్చు. ఈ మొక్కలో ఉన్న ఔషధ పదార్థాలు తెలియవు. ఈ మొక్క ఆహారయోగ్య సూచి 2/5. 
+ఈ మొక్క ఆయుష్యయోగ సూచి 1/5. 
+==ప్రచారణ(Propagation)==
+ఈ మొక్కల విత్తనాలు, పండిన చెక్క ముక్కలు, సగం పండిన చెక్క ముక్కలు ద్వారా వృద్ధి చెందుతాయి. ఈ మొక్కల సంతతిచెందే విధానము తెలియదు. 
+==Author==
+
+ఈ డేటా రచయిత ర్.బెర్.(R.Br.).
+==మూలాలు==
+
+1) https://pfaf.org/user/Default.aspx
+2) http://www.theplantlist.org/
+* {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}
+* {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}
+
+[[వర్గం:Plants]]
+[[వర్గం:Plantae]]
+[[వర్గం:ప్లాంటే]]
+[[వర్గం: తెవికీ వృక్షజాలం ]]
+[[వర్గం:అకేషియా మెలనాక్సిలాన్]]
+
+[[వర్గం:లెగ్యుమినోసే]]
+
+[[వర్గం:బ్లాక్ వుడ్ ]]
+
+			</text>
+			<sha1>7bf5o082jozed7m688rzkkxgbhc8vhx</sha1>
+		</revision>
+	</page>
+	
+
+</mediawiki>
