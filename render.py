@@ -15,6 +15,8 @@ def getData(row,i):
 		'Species':row.Species.values[0],
 		'Family':row.Family.values[0],
 		'Common_name':row.Common_name.values[0],
+		'x':row.x.values[0],
+		'y':row.y.values[0],
 		'Habit':(row.Habit.values[0]),
 		'Deciduous_Evergreen':row.Deciduous_Evergreen.values[0],
 		'Height':row.Height.values[0],
