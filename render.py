@@ -11,6 +11,8 @@ def getData(row,i):
 		'Synonyms': (row.Synonyms.values[0]),
 		'Latin_name':row.Latin_name.values[0],
 		'Latin_name1':row.Latin_name1.values[0],
+		'Genus':row.Genus.values[0],
+		'Species':row.Species.values[0],
 		'Family':row.Family.values[0],
 		'Common_name':row.Common_name.values[0],
 		'Habit':(row.Habit.values[0]),
