@@ -35,30 +35,30 @@
   {{'}}\n'}}
 {%-endmacro-%}#}
 
-{%- macro introduction(Synonyms,Latin_name,Family,Common_name,Range)-%}
+{%- macro introduction(Synonyms,Latin_name,Family,Common_name,Range,x)-%}
   {%- if Synonyms != "NONE" -%}
-   {{Synonyms}} అనే మొక్క శాస్త్రీయ నామము {{Latin_name}}.{{" "}} 
+   {{Synonyms}} అనే [[మొక్క]] శాస్త్రీయ నామము {{x}}.
   {%- else -%}
-   దీని శాస్త్రీయ నామము {{Latin_name}}.{{" "}}
+   దీని శాస్త్రీయ నామము {{x}}.
   {%- endif -%}
-   ఇది {{Family}} కుటుంబానికి చెందినది.{{" "}}
+  ఇది {{Family}} కుటుంబానికి చెందినది.{{" "}}
   {%- if Common_name != "NONE" -%}
    దీని సాధారణ నామము {{Common_name}}.{{" "}}
   {%- endif -%}
   {%- if Range != "Unknown" and 'పెరుగుతాయి' in Range -%}
-   ఈ మొక్క {{Range}}.{{" "}}
+   ఈ [[మొక్క]] {{Range}}.{{" "}}
   {%-elif Range != "Unknown" -%}
-   ఈ మొక్క {{Range}} ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి.{{" "}}
+   ఈ [[మొక్క]] {{Range}} ప్రాంతాల్లో ఎక్కువగా పెరుగుతాయి.{{" "}}
   {%- endif -%}
 {%-endmacro-%}
 
 
-{%- macro description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
+{%- macro description(Latin_name,Habit,y,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
   {{ '\n==వివరణ(Description)==\n' }}
   {%- if Habit != "చెట్టు" and "పొద" -%}
-   {{Latin_name}} {{Habit}}లా ఎదిగే మొక్క.{{" "}}
+   {{Latin_name}} {{y}} ఎదిగే మొక్క.{{" "}}
   {%- elif Habit == 'శాశ్వత' and 'వార్షిక' -%}
-   {{Latin_name}} {{Habit}}ంగా  ఎదిగే మొక్క.{{" "}}
+   {{Latin_name}} {{y}} ఎదిగే మొక్క.{{" "}}
   {%- endif -%}
   {%- if Deciduous_Evergreen != "NONE" -%}
    ఇది {{Deciduous_Evergreen}} మొక్క.{{" "}}
@@ -201,21 +201,14 @@
 
 {%- macro author(Author, Author1)-%}
 {{ '\n==Author==\n' }}
-ఈ డేటా రచయిత {{Author}}({{Author1}}).
+ఈ డేటా [[రచయిత]] {{Author}}({{Author1}}).
 {%-endmacro-%}
 
 {%- macro References(Latin_name,Family,Common_name)-%}
 {{'\n==మూలాలు==\n'}}
-1) https://pfaf.org/user/Default.aspx
-2) http://www.theplantlist.org/
-{{- "\n" -}}
-* {{- " {{cite web |title =Plants data |url =  https://pfaf.org/user/Default.aspx  }}" -}}
-{{- "\n" -}}
-* {{- " {{cite web|title=Plants list| url=http://www.theplantlist.org/  }}" -}}
-{{- "\n\n" -}}
+<references />
 
 [[వర్గం:Plants]]
-[[వర్గం:Plantae]]
 [[వర్గం:ప్లాంటే]]
 [[వర్గం: తెవికీ వృక్షజాలం ]] 
 {%- if Latin_name!=NONE %}
@@ -224,14 +217,11 @@
 {%- if Family!=NONE %}
 [[వర్గం:{{Family}}]]
 {%endif-%}
-{%- if Common_name!=NONE %}
-[[వర్గం:{{Common_name}}]]
-{%endif-%}
 {%-endmacro-%}
 
 {{- infobox(Latin_name,Common_name,Family,Image,Author,Range,Synonyms,Genus,Species)-}}
-{{- introduction(Synonyms,Latin_name,Family,Common_name,Range)-}}
-{{- description(Latin_name,Habit,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
+{{- introduction(Synonyms,Latin_name,Family,Common_name,Range,x)-}}
+{{- description(Latin_name,Habit,y,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
 {{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
 {{- known_hazards(Known_hazards)-}}
 {{- edible_uses(Edible_uses)-}}
