@@ -53,7 +53,7 @@
 {%-endmacro-%}
 
 
-{%- macro description(Latin_name,Habit,y,Deciduous_Evergreen,Growth_rate,Height,Width)-%}
+{%- macro description(Latin_name,Habit,y,Deciduous_Evergreen,Growth_rate,Height,Width1)-%}
   {{ '\n==వివరణ(Description)==\n' }}
   {%- if Habit != "చెట్టు" and "పొద" -%}
    {{Latin_name}} {{y}} ఎదిగే మొక్క.{{" "}}
@@ -220,7 +220,7 @@
 
 {{- infobox(Latin_name,Common_name,Family,Image,Author,Range,Synonyms,Genus,Species)-}}
 {{- introduction(Synonyms,Latin_name,Family,Common_name,Range,x)-}}
-{{- description(Latin_name,Habit,y,Deciduous_Evergreen,Growth_rate,Height,Width)-}}
+{{- description(Latin_name,Habit,y,Deciduous_Evergreen,Growth_rate,Height,Width1)-}}
 {{- taxonomy(Latin_name,Soil,Growth_rate,Moisture,Shade,Nitrogen_fixer,Poor_soil,Drought,Self_fertile,Heavy_clay) -}}
 {{- known_hazards(Known_hazards)-}}
 {{- edible_uses(Edible_uses)-}}
