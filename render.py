@@ -21,6 +21,7 @@ def getData(row,i):
 		'Deciduous_Evergreen':row.Deciduous_Evergreen.values[0],
 		'Height':row.Height.values[0],
 		'Width':row.Width.values[0],
+		'Width1':row.Width1.values[0],
 		'UK_Hardiness':row.UK_Hardiness.values[0],
 		'Medicinal':row.Medicinal.values[0],
 		'Range':row.Range.values[0],
