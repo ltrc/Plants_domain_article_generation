@@ -1,4 +1,4 @@
-# honors-project-CLD
+# Wikipedia Article Generation
 ## Name: Padakanti Srijith
 ## ID.no: 2019114002
 ## Group: CLD
